@@ -1,0 +1,414 @@
+Three-dimensional digital subtraction angiographic | 3D-DSA | 2
+3D-DSA | Three-dimensional digital subtraction angiographic | 2
+standard triangulation language | STL | 2
+STL | standard triangulation language | 2
+Vero | acrylic resin | 1
+acrylic resin | Vero | 0
+OBJET30 Pro | 3D printer | 1
+3D printer | OBJET30 Pro | 0
+Amira version X | 3D visualization and measurement software | 1
+3D visualization and measurement software | Amira version X | 0
+hydrozincite | HZ7 | 2
+HZ7 | hydrozincite | 2
+diamond polished surface | DP | 2
+DP | diamond polished surface | 2
+hydrozincite | corrosion products | 1
+corrosion products | hydrozincite | 0
+Cu2O | corrosion products | 1
+corrosion products | Cu2O | 0
+magnesium | alloying elements | 1
+alloying elements | magnesium | 0
+copper | alloying elements | 1
+alloying elements | copper | 0
+S phase | Al2CuMg | 2
+Al2CuMg | S phase | 2
+S phase particles | constituent particles | 1
+constituent particles | S phase particles | 0
+alloy | AA2024 alloys | 2
+AA2024 alloys | alloy | 2
+thermal boundary resistance | thermal boundary | 2
+thermal boundary | thermal boundary resistance | 2
+CPA pill | pill | 2
+pill | CPA pill | 2
+transconductance/gain | transistor parameters | 1
+transistor parameters | transconductance/gain | 0
+threshold voltage | transistor parameters | 1
+transistor parameters | threshold voltage | 0
+threshold slope | transistor parameters | 1
+transistor parameters | threshold slope | 0
+thermal conductivity | κ | 2
+κ | thermal conductivity | 2
+magnetic field | B | 2
+B | magnetic field | 2
+20,000 RRR heat switch | tungsten heat switches | 1
+tungsten heat switches | 20,000 RRR heat switch | 0
+Vizster | convex hulls | 1
+convex hulls | Vizster | 0
+finite element method | FEM | 2
+FEM | finite element method | 2
+preconditioning | developing efficient solution techniques | 1
+developing efficient solution techniques | preconditioning | 0
+parallelisation | developing efficient solution techniques | 1
+developing efficient solution techniques | parallelisation | 0
+adaptivity in space and time | developing efficient solution techniques | 1
+developing efficient solution techniques | adaptivity in space and time | 0
+Fourier basis | univariate basis | 1
+univariate basis | Fourier basis | 0
+Chebyshev polynomials | univariate basis | 1
+univariate basis | Chebyshev polynomials | 0
+vector of unknowns | xPS=[X,L] | 2
+xPS=[X,L] | vector of unknowns | 2
+Cxl | two off-diagonal blocks | 1
+two off-diagonal blocks | Cxl | 0
+Clx=CxlT | two off-diagonal blocks | 1
+two off-diagonal blocks | Clx=CxlT | 0
+maximum-norm | p-norms | 1
+p-norms | maximum-norm | 0
+cell-centered hydrodynamics | CCH | 2
+CCH | cell-centered hydrodynamics | 2
+staggered-grid hydrodynamic | SGH | 2
+SGH | staggered-grid hydrodynamic | 2
+master–slave approach | contact method | 1
+contact method | master–slave approach | 0
+ghost mesh | phony elements | 2
+phony elements | ghost mesh | 2
+Rosenbrock solution | one iteration of a Newton solver | 2
+one iteration of a Newton solver | Rosenbrock solution | 2
+Cumulative Averaging Method | CAM | 2
+CAM | Cumulative Averaging Method | 2
+direct simulation Monte Carlo method | DSMC | 2
+DSMC | direct simulation Monte Carlo method | 2
+direct simulation Monte Carlo method | accurate and flexible modelling alternative | 1
+accurate and flexible modelling alternative | direct simulation Monte Carlo method | 0
+coarse curvilinear mesh | meshes | 1
+meshes | coarse curvilinear mesh | 0
+PUT | profile-unbiased thermostat | 2
+profile-unbiased thermostat | PUT | 2
+NEMD | nonequilibrium molecular dynamics | 2
+nonequilibrium molecular dynamics | NEMD | 2
+dependence on the relative velocity | Galilean invariance | 1
+Galilean invariance | dependence on the relative velocity | 0
+telechelic polymers | polymers with defined chain-ends | 1
+polymers with defined chain-ends | telechelic polymers | 0
+atom transfer radical polymerization | ATRP | 2
+ATRP | atom transfer radical polymerization | 2
+ATRP | polymerization | 1
+polymerization | ATRP | 0
+unattached chains | Mg | 2
+Mg | unattached chains | 2
+network mesh | Mx | 2
+Mx | network mesh | 2
+Mx>Me | NL | 2
+NL | Mx>Me | 2
+Mx<Me | NS | 2
+NS | Mx<Me | 2
+Monte Carlo Simulation | diagonal bond method | 1
+diagonal bond method | Monte Carlo Simulation | 0
+anionic polystyrene | (PS | 2
+(PS | anionic polystyrene | 2
+polymerization | reaction | 1
+reaction | polymerization | 0
+ring-opening polymerization | ROP | 2
+ROP | ring-opening polymerization | 2
+glycerol | triols | 1
+triols | glycerol | 0
+1,2,4-butanetriol | triols | 1
+triols | 1,2,4-butanetriol | 0
+atom transfer radical polymerization | ATRP | 2
+ATRP | atom transfer radical polymerization | 2
+antiarrhythmics | imidazolium salts | 1
+imidazolium salts | antiarrhythmics | 0
+anti-metastic agents | imidazolium salts | 1
+imidazolium salts | anti-metastic agents | 0
+imidazolium-based steroids | imidazolium salts | 1
+imidazolium salts | imidazolium-based steroids | 0
+efficient absorption of CO2 | Separation applications | 1
+Separation applications | efficient absorption of CO2 | 0
+density functional theory | DFT | 2
+DFT | density functional theory | 2
+density of states | DOS | 2
+DOS | density of states | 2
+Hartree–Fock method | crystal code | 2
+crystal code | Hartree–Fock method | 2
+SRTM | Shuttle Radar Topographical Mission | 2
+Shuttle Radar Topographical Mission | SRTM | 2
+DEM | Digital Elevation Model | 2
+Digital Elevation Model | DEM | 2
+SRTM | fine-resolution (3″ or finer) terrain data bases | 1
+fine-resolution (3″ or finer) terrain data bases | SRTM | 0
+DEM | fine-resolution (3″ or finer) terrain data bases | 1
+fine-resolution (3″ or finer) terrain data bases | DEM | 0
+WGS84 | World Geodetic System 84 | 2
+World Geodetic System 84 | WGS84 | 2
+East, North and Up | ENU | 2
+ENU | East, North and Up | 2
+directed acyclic graphs | DAGs | 2
+DAGs | directed acyclic graphs | 2
+user-defined functions | UDFs | 2
+UDFs | user-defined functions | 2
+Enterprise Social Software | ESS | 2
+ESS | Enterprise Social Software | 2
+Invitrogen | pHrodo Red dye | 1
+pHrodo Red dye | Invitrogen | 0
+bone marrow derived dendritic cells | BMDCs | 2
+BMDCs | bone marrow derived dendritic cells | 2
+tetraethylorthosilicate | TEOS | 2
+TEOS | tetraethylorthosilicate | 2
+tetraethylorthosilicate | soluble silica precursor | 1
+soluble silica precursor | tetraethylorthosilicate | 0
+cetyltrimethylammonium bromide | CTAB | 2
+CTAB | cetyltrimethylammonium bromide | 2
+cetyltrimethylammonium bromide | surfactant | 1
+surfactant | cetyltrimethylammonium bromide | 0
+aminopropyltriethoxysilane | APTES | 2
+APTES | aminopropyltriethoxysilane | 2
+gallium | Ga | 2
+Ga | gallium | 2
+air/film/substrate | three-phase layered system | 1
+three-phase layered system | air/film/substrate | 0
+Adachi's model | ε(Ε)=ε∞+{A0[2−(1+χ0)1/2−(1−χ0)1/2]}/(EOBG2/3χ02) | 2
+ε(Ε)=ε∞+{A0[2−(1+χ0)1/2−(1−χ0)1/2]}/(EOBG2/3χ02) | Adachi's model | 2
+E | incident photon energy | 2
+incident photon energy | E | 2
+ε∞ | high-frequency dielectric constant | 2
+high-frequency dielectric constant | ε∞ | 2
+χ0=(E+iΓ) | EOBG | 2
+EOBG | χ0=(E+iΓ) | 2
+A0 and Γ | strength and broadening parameters | 2
+strength and broadening parameters | A0 and Γ | 2
+Functionally Graded Materials | FGMs | 2
+FGMs | Functionally Graded Materials | 2
+FGMs | heterogeneous composite materials | 1
+heterogeneous composite materials | FGMs | 0
+carbon fibre reinforced plastic | CFRP | 2
+CFRP | carbon fibre reinforced plastic | 2
+dimensionless parameter | Sc⁎ | 1
+Sc⁎ | dimensionless parameter | 0
+critical parameter | Sc,critical⁎ | 1
+Sc,critical⁎ | critical parameter | 0
+matter density | ρ | 2
+ρ | matter density | 2
+critical density | ρcrit | 2
+ρcrit | critical density | 2
+cosmological constant | Λ | 2
+Λ | cosmological constant | 2
+vacuum energy density | ρΛ≡Λ/(8πG) | 2
+ρΛ≡Λ/(8πG) | vacuum energy density | 2
+deceleration parameter | q | 2
+q | deceleration parameter | 2
+coincidence problem | why ρ and ρΛ happen to be of the same order of magnitude precisely at this very moment | 2
+why ρ and ρΛ happen to be of the same order of magnitude precisely at this very moment | coincidence problem | 2
+massless scalar | dilaton | 2
+dilaton | massless scalar | 2
+Planck mass | masses | 1
+masses | Planck mass | 0
+J/ψ | charmonium states | 1
+charmonium states | J/ψ | 0
+ψ′ | charmonium states | 1
+charmonium states | ψ′ | 0
+normal nuclear suppression | absorption of pre-resonance charmonium states by nuclear nucleons | 2
+absorption of pre-resonance charmonium states by nuclear nucleons | normal nuclear suppression | 2
+comovers | interactions of charmonia with secondary hadrons | 2
+interactions of charmonia with secondary hadrons | comovers | 2
+dissociation of cc̄ bound states in deconfined medium | anomalous suppression | 2
+anomalous suppression | dissociation of cc̄ bound states in deconfined medium | 2
+Pb+Pb | heavy projectile and target | 1
+heavy projectile and target | Pb+Pb | 0
+quark–gluon plasma | QGP | 2
+QGP | quark–gluon plasma | 2
+annihilation form factor | R2π(s) | 2
+R2π(s) | annihilation form factor | 2
+h0 | Higgs boson | 2
+Higgs boson | h0 | 2
+GARFIELD | drift chamber simulation package | 1
+drift chamber simulation package | GARFIELD | 0
+MAGBOLTZ | gas property simulation package | 1
+gas property simulation package | MAGBOLTZ | 0
+x–t relation | relation between the hit position and the drift time | 2
+relation between the hit position and the drift time | x–t relation | 2
+Pc | NSI | 1
+NSI | Pc | 0
+observation of at least partial restoration of chiral symmetry | nuclear physics | 1
+nuclear physics | observation of at least partial restoration of chiral symmetry | 0
+q̄q | chiral order parameter | 2
+chiral order parameter | q̄q | 2
+SU(N) | gauge group | 1
+gauge group | SU(N) | 0
+Substrate Induced Coagulation | SIC | 2
+SIC | Substrate Induced Coagulation | 2
+Teflon | conducting polymers | 1
+conducting polymers | Teflon | 0
+shear transformation zones | STZs | 2
+STZs | shear transformation zones | 2
+X-ray Diffraction | XRD | 2
+XRD | X-ray Diffraction | 2
+mechanically milled AA6061 | Al–Mg–Si | 2
+Al–Mg–Si | mechanically milled AA6061 | 2
+physical properties | thermodynamic, crystallographic, or mechanical properties | 2
+thermodynamic, crystallographic, or mechanical properties | physical properties | 2
+LSHR | Low Solvus High Refractory | 2
+Low Solvus High Refractory | LSHR | 2
+user-defined material subroutine | UMAT | 2
+UMAT | user-defined material subroutine | 2
+near electrical resonance signal enhancement | NERSE | 2
+NERSE | near electrical resonance signal enhancement | 2
+discrete wavelet analysis | time–frequency analysis | 1
+time–frequency analysis | discrete wavelet analysis | 0
+genetic algorithm | GA | 2
+GA | genetic algorithm | 2
+decision variable domain | X | 2
+X | decision variable domain | 2
+parent | population | 1
+population | parent | 0
+global optimisation technique | GA | 1
+GA | global optimisation technique | 0
+receiving element | R | 2
+R | receiving element | 2
+transmitting element | T | 2
+T | transmitting element | 2
+low carbon steel | steel | 1
+steel | low carbon steel | 0
+Shear horizontal (SH) ultrasound waves | guided waves | 1
+guided waves | Shear horizontal (SH) ultrasound waves | 0
+phase and group speed | shear wave speed | 2
+shear wave speed | phase and group speed | 2
+SH waves | bulk waves | 2
+bulk waves | SH waves | 2
+scanning electron microscopy | SEM | 2
+SEM | scanning electron microscopy | 2
+transmission electron microscopy | TEM | 2
+TEM | transmission electron microscopy | 2
+Rh6G | fluorescent rhodamine (Rh) dyes | 1
+fluorescent rhodamine (Rh) dyes | Rh6G | 0
+RhB | fluorescent rhodamine (Rh) dyes | 1
+fluorescent rhodamine (Rh) dyes | RhB | 0
+Rh101 | fluorescent rhodamine (Rh) dyes | 1
+fluorescent rhodamine (Rh) dyes | Rh101 | 0
+Rhodamines | xanthenes dyes | 1
+xanthenes dyes | Rhodamines | 0
+Rh | fluorescent rhodamine | 2
+fluorescent rhodamine | Rh | 2
+SPA | single-photon absorption | 2
+single-photon absorption | SPA | 2
+Pt | co-catalysts | 1
+co-catalysts | Pt | 0
+Fe3+ | co-catalysts | 1
+co-catalysts | Fe3+ | 0
+Cu2+ | co-catalysts | 1
+co-catalysts | Cu2+ | 0
+CoPi | CoPOx | 2
+CoPOx | CoPi | 2
+CoPi | co-catalyst | 1
+co-catalyst | CoPi | 0
+Cambridge Serial Total Energy Package | CASTEP | 2
+CASTEP | Cambridge Serial Total Energy Package | 2
+generalized gradient approximation | PBE-GGA | 2
+PBE-GGA | generalized gradient approximation | 2
+Strength Pareto Evolutionary Algorithm | SPEA | 2
+SPEA | Strength Pareto Evolutionary Algorithm | 2
+SPEA | multi-objective optimization | 1
+multi-objective optimization | SPEA | 0
+Pareto optimal models | downscaling rules | 2
+downscaling rules | Pareto optimal models | 2
+DEM | spatial inputs | 1
+spatial inputs | DEM | 0
+accretion rates | parameter choices | 1
+parameter choices | accretion rates | 0
+VDATUM | spatial inputs | 1
+spatial inputs | VDATUM | 0
+tide ranges | parameter choices | 1
+parameter choices | tide ranges | 0
+SB | constituent statistics | 1
+constituent statistics | SB | 0
+SDSD | constituent statistics | 1
+constituent statistics | SDSD | 0
+LCS | constituent statistics | 1
+constituent statistics | LCS | 0
+Shallow Water Equations | SWEs | 2
+SWEs | Shallow Water Equations | 2
+Urban Inundation Model | UIM | 2
+UIM | Urban Inundation Model | 2
+InfoWorks ICM | multi resolution grids or irregular mesh | 1
+multi resolution grids or irregular mesh | InfoWorks ICM | 0
+MIKE FLOOD | multi resolution grids or irregular mesh | 1
+multi resolution grids or irregular mesh | MIKE FLOOD | 0
+multihop routing protocol | PHASeR | 2
+PHASeR | multihop routing protocol | 2
+TDMA | time division multiple access | 2
+time division multiple access | TDMA | 2
+MAC | medium access control | 2
+medium access control | MAC | 2
+actinides | actinoids | 2
+actinoids | actinides | 2
+Transuranium elements | transuranics | 2
+transuranics | Transuranium elements | 2
+transactinides | superactinides | 2
+superactinides | transactinides | 2
+thorium metal | actinides | 1
+actinides | thorium metal | 0
+uranium | actinides | 1
+actinides | uranium | 0
+uranium compounds | actinides | 1
+actinides | uranium compounds | 0
+uranium heavy fermion superconductors | uranium superconductors | 1
+uranium superconductors | uranium heavy fermion superconductors | 0
+Ac | actinoids | 1
+actinoids | Ac | 0
+Th | actinoids | 1
+actinoids | Th | 0
+Lr | actinoids | 1
+actinoids | Lr | 0
+thermalization | carrier cooling | 2
+carrier cooling | thermalization | 2
+arabinoxylan | non-starchy polysaccharides | 1
+non-starchy polysaccharides | arabinoxylan | 0
+EASSRs | Electrically evoked auditory steady-state responses | 2
+Electrically evoked auditory steady-state responses | EASSRs | 2
+EEG | electroencephalogram | 2
+electroencephalogram | EEG | 2
+CI | cochlear implant | 2
+cochlear implant | CI | 2
+VISSIM | simulation toolkits | 1
+simulation toolkits | VISSIM | 0
+2D and 3D simulations | graphical microsimulation | 2
+graphical microsimulation | 2D and 3D simulations | 2
+HemeLB application | HemeLB | 2
+HemeLB | HemeLB application | 2
+Partial Differential Equations | PDEs | 2
+PDEs | Partial Differential Equations | 2
+Ordinary Differential Equations | ODEs | 2
+ODEs | Ordinary Differential Equations | 2
+FabHemeLB | Python tool | 1
+Python tool | FabHemeLB | 0
+FabHemeLB | FabSim | 1
+FabSim | FabHemeLB | 0
+LBP | local binary pattern | 2
+local binary pattern | LBP | 2
+Eyeball Search | ER | 2
+ER | Eyeball Search | 2
+ER | eye location method | 1
+eye location method | ER | 0
+LBP | local binary pattern | 2
+local binary pattern | LBP | 2
+Eyeball Search | ER | 2
+ER | Eyeball Search | 2
+ER | eye location method | 1
+eye location method | ER | 0
+eye location | pre-processing of the face | 1
+pre-processing of the face | eye location | 0
+geometric normalization | pre-processing of the face | 1
+pre-processing of the face | geometric normalization | 0
+illumination normalization | pre-processing of the face | 1
+pre-processing of the face | illumination normalization | 0
+eye location | face preprocessing | 1
+face preprocessing | eye location | 0
+Kernel Extensional Matrix Matching | KEMM | 2
+KEMM | Kernel Extensional Matrix Matching | 2
+Scale-invariant feature transform | SIFT | 2
+SIFT | Scale-invariant feature transform | 2
+Speeded up robust features | SURF | 2
+SURF | Speeded up robust features | 2
+Support vector machine | SVM | 2
+SVM | Support vector machine | 2
+SVM | classification method | 1
+classification method | SVM | 0

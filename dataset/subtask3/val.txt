@@ -1,0 +1,336 @@
+CL | Complex Langevin | 2
+Complex Langevin | CL | 2
+van der Waals model | first order phase transition | 1
+first order phase transition | van der Waals model | 0
+gs(B,t)≡∂fs(B,t)∂B | instantaneous magnetic sensitivity | 1
+instantaneous magnetic sensitivity | gs(B,t)≡∂fs(B,t)∂B | 0
+α | isotropic hyperfine coupling | 1
+isotropic hyperfine coupling | α | 0
+magnetic field | B | 2
+B | magnetic field | 2
+nitrogen | spin-1 nucleus | 1
+spin-1 nucleus | nitrogen | 0
+resonance energy transfer | Optical processes | 1
+Optical processes | resonance energy transfer | 0
+QED | quantum electrodynamic | 2
+quantum electrodynamic | QED | 2
+synthetic mechanisms | methods, mostly multi-step and time-consuming | 1
+methods, mostly multi-step and time-consuming | synthetic mechanisms | 0
+separation techniques | methods, mostly multi-step and time-consuming | 1
+methods, mostly multi-step and time-consuming | separation techniques | 0
+2L-CCS | two-layer version of CCS | 2
+two-layer version of CCS | 2L-CCS | 2
+SQUID | superconducting quantum interface device | 2
+superconducting quantum interface device | SQUID | 2
+configuration interaction | CI | 2
+CI | configuration interaction | 2
+Rm | value of the measuring resistor | 2
+value of the measuring resistor | Rm | 2
+surface active agent | surfactant | 1
+surfactant | surface active agent | 0
+compounds which improve the dispersability | surfactant | 1
+surfactant | compounds which improve the dispersability | 0
+amines (when protonated) | cationic surfactants class | 1
+cationic surfactants class | amines (when protonated) | 0
+quaternary ammonium salts | cationic surfactants class | 1
+cationic surfactants class | quaternary ammonium salts | 0
+DDPB | N-dodecylpyridinium bromide | 2
+N-dodecylpyridinium bromide | DDPB | 2
+NPE | nonylphenol ethoxylate | 2
+nonylphenol ethoxylate | NPE | 2
+alkylphenol ethoxylates | surfactants | 1
+surfactants | alkylphenol ethoxylates | 0
+nonylphenol ethoxylate | surfactants | 1
+surfactants | nonylphenol ethoxylate | 0
+amines | surfactant | 1
+surfactant | amines | 0
+quats | quaternary ammonium compounds | 2
+quaternary ammonium compounds | quats | 2
+N-dodecylpyridinium bromide | surfactant | 1
+surfactant | N-dodecylpyridinium bromide | 0
+Anionic sulphates | surfactants | 1
+surfactants | Anionic sulphates | 0
+anionic sulphonates | surfactants | 1
+surfactants | anionic sulphonates | 0
+alkoxylated alkylphenol resins | surfactants | 1
+surfactants | alkoxylated alkylphenol resins | 0
+polyoxyethylene sorbitan oleates | surfactants | 1
+surfactants | polyoxyethylene sorbitan oleates | 0
+blend of polyethylene glycol esters of fatty acids and ethoxylated alkylphenols | surfactant | 1
+surfactant | blend of polyethylene glycol esters of fatty acids and ethoxylated alkylphenols | 0
+cation | surface active specie | 1
+surface active specie | cation | 0
+Long-chain quaternary ammonium bromides | CIs | 1
+CIs | Long-chain quaternary ammonium bromides | 0
+Ψ | Volta potential | 2
+Volta potential | Ψ | 2
+potential difference | Volta potential | 1
+Volta potential | potential difference | 0
+SKPFM | scanning Kelvin probe force microscopy | 2
+scanning Kelvin probe force microscopy | SKPFM | 2
+ΔΨ | Volta potential differences | 2
+Volta potential differences | ΔΨ | 2
+property of a metal surface | Volta potential | 1
+Volta potential | property of a metal surface | 0
+measureable quantity | Volta potential | 1
+Volta potential | measureable quantity | 0
+Ecorr | free corrosion potential | 2
+free corrosion potential | Ecorr | 2
+n-C10H22 | n-decane | 2
+n-decane | n-C10H22 | 2
+n-C20H42 | n-eicosane | 2
+n-eicosane | n-C20H42 | 2
+n-C6H14 | n-alkanes chains | 1
+n-alkanes chains | n-C6H14 | 0
+n-C9H20 | n-alkanes chains | 1
+n-alkanes chains | n-C9H20 | 0
+n-C12H26 | n-alkanes chains | 1
+n-alkanes chains | n-C12H26 | 0
+n-C15H32 | n-alkanes chains | 1
+n-alkanes chains | n-C15H32 | 0
+n-C18H38 | n-alkanes chains | 1
+n-alkanes chains | n-C18H38 | 0
+gas–liquid equilibrium | gas exchange processes | 1
+gas exchange processes | gas–liquid equilibrium | 0
+chemical reaction in the water phase | gas exchange processes | 1
+gas exchange processes | chemical reaction in the water phase | 0
+CFD | computational fluid dynamics | 2
+computational fluid dynamics | CFD | 2
+DNS | direct numerical simulation | 2
+direct numerical simulation | DNS | 2
+ωf | natural frequency | 2
+natural frequency | ωf | 2
+ω | forcing frequency | 2
+forcing frequency | ω | 2
+Kelvin waves | shallow-water waves | 1
+shallow-water waves | Kelvin waves | 0
+shallow-water waves | waves | 1
+waves | shallow-water waves | 0
+Kelvin waves | waves | 1
+waves | Kelvin waves | 0
+cell tracking problem | PDE constrained optimisation problem | 1
+PDE constrained optimisation problem | cell tracking problem | 0
+action integral | Lagrangian | 1
+Lagrangian | action integral | 0
+reformulation of Lagrangian mechanics | Hamiltonian mechanics | 1
+Hamiltonian mechanics | reformulation of Lagrangian mechanics | 0
+Lagrangian | single functional | 1
+single functional | Lagrangian | 0
+movement of pendulums, planets, or water waves | physical phenomena | 1
+physical phenomena | movement of pendulums, planets, or water waves | 0
+GPGPU architectures | parallel computers | 1
+parallel computers | GPGPU architectures | 0
+mesh redistribution | R-adaptivity | 1
+R-adaptivity | mesh redistribution | 0
+deforming a mesh | mesh redistribution | 1
+mesh redistribution | deforming a mesh | 0
+Monge–Ampère equation | r-adaptive mesh generation | 1
+r-adaptive mesh generation | Monge–Ampère equation | 0
+Calumite | powdered material | 1
+powdered material | Calumite | 0
+oxidation | degradation mechanisms | 1
+degradation mechanisms | oxidation | 0
+titanate pyrochlore | CaUTi2O7 | 2
+CaUTi2O7 | titanate pyrochlore | 2
+glass | Na2AlBSi6O16 | 2
+Na2AlBSi6O16 | glass | 2
+NaAlSi3O8 | mineral albite | 1
+mineral albite | NaAlSi3O8 | 0
+albite | glass | 1
+glass | albite | 0
+Morl and the Arima potential models | rigid ion models | 1
+rigid ion models | Morl and the Arima potential models | 0
+Catlow potential model | shell models | 1
+shell models | Catlow potential model | 0
+migration path | diffusion mechanism | 1
+diffusion mechanism | migration path | 0
+pellet cladding mechanical interaction | PCMI | 2
+PCMI | pellet cladding mechanical interaction | 2
+delayed hydride cracking | DHC | 2
+DHC | delayed hydride cracking | 2
+DHC | cracking phenomenon | 1
+cracking phenomenon | DHC | 0
+Uranium carbide | fuel kernel | 1
+fuel kernel | Uranium carbide | 0
+(U, Pu) C | mixed uranium–plutonium carbides | 2
+mixed uranium–plutonium carbides | (U, Pu) C | 2
+gas fast reactors | GFR | 2
+GFR | gas fast reactors | 2
+very high temperature reactor | VHTR | 2
+VHTR | very high temperature reactor | 2
+UO2 fuel | UO2+x | 2
+UO2+x | UO2 fuel | 2
+Magnox reactors | gas-cooled reactors | 1
+gas-cooled reactors | Magnox reactors | 0
+carbon dioxide | CO2 | 2
+CO2 | carbon dioxide | 2
+CO2 | coolant | 1
+coolant | CO2 | 0
+carbon monoxide | CO | 2
+CO | carbon monoxide | 2
+Methane | CH4 | 2
+CH4 | Methane | 2
+prediction of the three-dimensional space-time kinetics of neutrons | nuclear reactor analysis | 1
+nuclear reactor analysis | prediction of the three-dimensional space-time kinetics of neutrons | 0
+prediction of reactor physics responses | safety analyses | 1
+safety analyses | prediction of reactor physics responses | 0
+Uncertainty Analysis in Modelling | UAM | 2
+UAM | Uncertainty Analysis in Modelling | 2
+High Concentrator PV | HCPV | 2
+HCPV | High Concentrator PV | 2
+maximum power point | MPP | 2
+MPP | maximum power point | 2
+Highest Posterior-Density | HPD | 2
+HPD | Highest Posterior-Density | 2
+probability-box | p-box | 2
+p-box | probability-box | 2
+H2 | gas or vapour adsorbates | 1
+gas or vapour adsorbates | H2 | 0
+N2 | gas or vapour adsorbates | 1
+gas or vapour adsorbates | N2 | 0
+CO | gas or vapour adsorbates | 1
+gas or vapour adsorbates | CO | 0
+CO2 | gas or vapour adsorbates | 1
+gas or vapour adsorbates | CO2 | 0
+CH4 | gas or vapour adsorbates | 1
+gas or vapour adsorbates | CH4 | 0
+NH3 | gas or vapour adsorbates | 1
+gas or vapour adsorbates | NH3 | 0
+SO2 | gas or vapour adsorbates | 1
+gas or vapour adsorbates | SO2 | 0
+H2S | gas or vapour adsorbates | 1
+gas or vapour adsorbates | H2S | 0
+doping | surface modifications | 1
+surface modifications | doping | 0
+functionalization | surface modifications | 1
+surface modifications | functionalization | 0
+improving the pore structure and specific surface area of nanocarbons | surface modifications | 1
+surface modifications | improving the pore structure and specific surface area of nanocarbons | 0
+single angular direction | geometrical considerations | 1
+geometrical considerations | single angular direction | 0
+nanocolumns | geometrical features | 1
+geometrical features | nanocolumns | 0
+bond failure | micro-crack nucleation | 1
+micro-crack nucleation | bond failure | 0
+bond failure | separation between the adjacent cells in the cellular structure along their common face | 1
+separation between the adjacent cells in the cellular structure along their common face | bond failure | 0
+micro-cracks | crack | 1
+crack | micro-cracks | 0
+Dilute magnetic semiconductors | DMSs | 2
+DMSs | Dilute magnetic semiconductors | 2
+Half metallic ferromagnets | HMF | 2
+HMF | Half metallic ferromagnets | 2
+DMSs | materials to show half metallicity | 1
+materials to show half metallicity | DMSs | 0
+transition metal | magnetic dopant | 1
+magnetic dopant | transition metal | 0
+II–VI and III–V semiconductors | host material | 2
+host material | II–VI and III–V semiconductors | 2
+ZnS | host material | 1
+host material | ZnS | 0
+CdS | host material | 1
+host material | CdS | 0
+GaN | host material | 1
+host material | GaN | 0
+ZnO | host material | 1
+host material | ZnO | 0
+ZnSe | host material | 1
+host material | ZnSe | 0
+ZnTe | host material | 1
+host material | ZnTe | 0
+TiO2 | host material | 1
+host material | TiO2 | 0
+SnO2 | host material | 1
+host material | SnO2 | 0
+intense ultrafast laser field | laser field | 2
+laser field | intense ultrafast laser field | 2
+laser pulse | channels | 1
+channels | laser pulse | 0
+heavier fragment ions | molecule | 1
+molecule | heavier fragment ions | 0
+in situ inelastic neutron scattering | INS | 1
+INS | in situ inelastic neutron scattering | 0
+through-spacing interaction | Al-O⋯H2 | 1
+Al-O⋯H2 | through-spacing interaction | 0
+weak binding interactions | weak interaction | 1
+weak interaction | weak binding interactions | 0
+Na3 | alkali trimers | 1
+alkali trimers | Na3 | 0
+density functional theory | DFT | 1
+DFT | density functional theory | 0
+intermediate radicals | reducing agents | 1
+reducing agents | intermediate radicals | 0
+pyridinyl radical | PyH | 2
+PyH | pyridinyl radical | 2
+PyH | reducing agent | 1
+reducing agent | PyH | 0
+acridinyl | radicals | 1
+radicals | acridinyl | 0
+Pyridinyl | reductant | 1
+reductant | Pyridinyl | 0
+acridinyl | reductant | 1
+reductant | acridinyl | 0
+hard sphere rough wall treatment | rough wall treatment | 1
+rough wall treatment | hard sphere rough wall treatment | 0
+rough wall | wall | 1
+wall | rough wall | 0
+random wall | wall | 1
+wall | random wall | 0
+virtual walls | wall | 1
+wall | virtual walls | 0
+central, forward, or backward differencing | finite difference schemes | 1
+finite difference schemes | central, forward, or backward differencing | 0
+5th order WENO | high order discretisation scheme | 1
+high order discretisation scheme | 5th order WENO | 0
+large eddy simulations | LES | 1
+LES | large eddy simulations | 0
+phase Doppler anemometry | PDA | 2
+PDA | phase Doppler anemometry | 2
+comprehensive discrete element model | DEM | 2
+DEM | comprehensive discrete element model | 2
+Statistical Associating Fluid Theory | SAFT | 2
+SAFT | Statistical Associating Fluid Theory | 2
+SAFT | perturbation theory | 1
+perturbation theory | SAFT | 0
+unbounded constituent particles | reference fluids | 1
+reference fluids | unbounded constituent particles | 0
+Hard spheres | reference fluids | 1
+reference fluids | Hard spheres | 0
+square well fluids | reference fluids | 1
+reference fluids | square well fluids | 0
+LJ fluids | reference fluids | 1
+reference fluids | LJ fluids | 0
+argon | reference fluids | 1
+reference fluids | argon | 0
+alkanes | reference fluids | 1
+reference fluids | alkanes | 0
+SAFT-VR Mie | SAFT EoS | 1
+SAFT EoS | SAFT-VR Mie | 0
+SAFT-γ | group contribution approach | 1
+group contribution approach | SAFT-γ | 0
+SAFT-γ | SAFT-VR Mie | 1
+SAFT-VR Mie | SAFT-γ | 0
+Mie potential | (m,n) potential | 2
+(m,n) potential | Mie potential | 2
+(m,n) potential | LJ potential | 1
+LJ potential | (m,n) potential | 0
+micro-, meso- and macroscopic approaches | modeling approaches | 1
+modeling approaches | micro-, meso- and macroscopic approaches | 0
+Laboratory and real-world experimentation | degradation science | 1
+degradation science | Laboratory and real-world experimentation | 0
+informatics | degradation science | 1
+degradation science | informatics | 0
+analytics | degradation science | 1
+degradation science | analytics | 0
+development of network models | degradation science | 1
+degradation science | development of network models | 0
+DIII-D | nuclear fusion devices | 1
+nuclear fusion devices | DIII-D | 0
+TCV | nuclear fusion devices | 1
+nuclear fusion devices | TCV | 0
+JT-60SA | nuclear fusion devices | 1
+nuclear fusion devices | JT-60SA | 0
+KSTAR | nuclear fusion devices | 1
+nuclear fusion devices | KSTAR | 0
+Wenderstein-7X | nuclear fusion devices | 1
+nuclear fusion devices | Wenderstein-7X | 0

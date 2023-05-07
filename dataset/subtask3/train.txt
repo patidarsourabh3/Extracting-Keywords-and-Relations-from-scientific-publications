@@ -1,0 +1,1346 @@
+semi classical treatment of dynamical correlations | improved molecular dynamics methods | 1
+improved molecular dynamics methods | semi classical treatment of dynamical correlations | 0
+free Maxwell field | quantum fields | 1
+quantum fields | free Maxwell field | 0
+such fields | Fermionic fields | 1
+Fermionic fields | such fields | 0
+“MIT bag model” of the nucleon | nuclear physics | 1
+nuclear physics | “MIT bag model” of the nucleon | 0
+sub 50fs | electronic relaxation timescale | 1
+electronic relaxation timescale | sub 50fs | 0
+Water | liquid | 1
+liquid | Water | 0
+X-ray absorption spectroscopy | XAS | 2
+XAS | X-ray absorption spectroscopy | 2
+inner-shell spectroscopic techniques | X-ray absorption spectroscopy | 1
+X-ray absorption spectroscopy | inner-shell spectroscopic techniques | 0
+X-ray emission spectroscopy | XES | 2
+XES | X-ray emission spectroscopy | 2
+excitation energies | spectral properties | 1
+spectral properties | excitation energies | 0
+line intensities | spectral properties | 1
+spectral properties | line intensities | 0
+curve fitting Levenberg–Marquardt algorithm | Matlab® programming | 1
+Matlab® programming | curve fitting Levenberg–Marquardt algorithm | 0
+τ1=35fs | best fit decay constants | 1
+best fit decay constants | τ1=35fs | 0
+τ2=240fs | best fit decay constants | 1
+best fit decay constants | τ2=240fs | 0
+τ1=36fs | best fit decay constants | 1
+best fit decay constants | τ1=36fs | 0
+τ2=280fs | best fit decay constants | 1
+best fit decay constants | τ2=280fs | 0
+parent ion | C10H12+ | 2
+C10H12+ | parent ion | 2
+aberration-corrected transmission electron microscopy | AC-TEM | 2
+AC-TEM | aberration-corrected transmission electron microscopy | 2
+trajectory surface hoping | TSH | 2
+TSH | trajectory surface hoping | 2
+periodic orbit dividing surfaces | PODS | 2
+PODS | periodic orbit dividing surfaces | 2
+OTS | space geometrical objects | 1
+space geometrical objects | OTS | 0
+TTS | space geometrical objects | 1
+space geometrical objects | TTS | 0
+single step | γ-ray radiation | 1
+γ-ray radiation | single step | 0
+Scanning TEM | STEM | 2
+STEM | Scanning TEM | 2
+Transmission Electron Microscope | TEM | 2
+TEM | Transmission Electron Microscope | 2
+Focused Ion Beam | FIB | 2
+FIB | Focused Ion Beam | 2
+interruption of the protective current | protective current was interrupted | 2
+protective current was interrupted | interruption of the protective current | 2
+assess the long-term benefits | long-term sustained benefits | 2
+long-term sustained benefits | assess the long-term benefits | 2
+ICCP | Impressed Current Cathodic Protection | 2
+Impressed Current Cathodic Protection | ICCP | 2
+thermogravimetric balance | TGA | 2
+TGA | thermogravimetric balance | 2
+Ra | roughness | 2
+roughness | Ra | 2
+β-21S | alloys with substantially improved oxidation resistance | 1
+alloys with substantially improved oxidation resistance | β-21S | 0
+Al | Al alloy | 1
+Al alloy | Al | 0
+intergranular stress corrosion cracking | IGSCC | 2
+IGSCC | intergranular stress corrosion cracking | 2
+Stress corrosion cracking | SCC | 2
+SCC | Stress corrosion cracking | 2
+Alloy 600 | 74% Ni, 16% Cr and 8% Fe | 2
+74% Ni, 16% Cr and 8% Fe | Alloy 600 | 2
+pressurized water reactors | PWSCC | 2
+PWSCC | pressurized water reactors | 2
+steam generator tubes | safety critical components | 1
+safety critical components | steam generator tubes | 0
+heater sleeves | safety critical components | 1
+safety critical components | heater sleeves | 0
+pressurized instrument penetrations | safety critical components | 1
+safety critical components | pressurized instrument penetrations | 0
+control rod drive mechanisms | safety critical components | 1
+safety critical components | control rod drive mechanisms | 0
+Extreme value analysis | EVA | 2
+EVA | Extreme value analysis | 2
+generalized extreme value distribution | GEVD | 2
+GEVD | generalized extreme value distribution | 2
+copper-zinc alloys | brass | 2
+brass | copper-zinc alloys | 2
+reliable data of the total excess entropy | enthalpic and chemical potential data | 1
+enthalpic and chemical potential data | reliable data of the total excess entropy | 0
+Monte Carlo techniques | Monte Carlo code | 2
+Monte Carlo code | Monte Carlo techniques | 2
+Cumulative Averaging Method | CAM | 2
+CAM | Cumulative Averaging Method | 2
+CB⁎¯ | bulk-mean concentration | 1
+bulk-mean concentration | CB⁎¯ | 0
+direct simulation Monte Carlo method | DSMC | 2
+DSMC | direct simulation Monte Carlo method | 2
+coarse curvilinear mesh | meshes | 1
+meshes | coarse curvilinear mesh | 0
+Conventional continuum fluid dynamics | CFD | 2
+CFD | Conventional continuum fluid dynamics | 2
+direct simulation Monte Carlo | DSMC | 2
+DSMC | direct simulation Monte Carlo | 2
+particle method | direct simulation Monte Carlo | 1
+direct simulation Monte Carlo | particle method | 0
+high-aspect-ratio micro geometries | long, relative to their cross section | 1
+long, relative to their cross section | high-aspect-ratio micro geometries | 0
+microfluidic devices | small deviations from equilibrium | 1
+small deviations from equilibrium | microfluidic devices | 0
+microfluidic devices | extremely low Mach numbers and weak temperature gradients | 1
+extremely low Mach numbers and weak temperature gradients | microfluidic devices | 0
+numerical scheme | Galerkin finite element method | 1
+Galerkin finite element method | numerical scheme | 0
+numerical scheme | multiple Caputo fractional derivatives in time | 1
+multiple Caputo fractional derivatives in time | numerical scheme | 0
+fully discrete scheme | finite difference discretization of the Caputo fractional derivatives | 1
+finite difference discretization of the Caputo fractional derivatives | fully discrete scheme | 0
+numerical experiments | one- and two-dimension | 1
+one- and two-dimension | numerical experiments | 0
+multi-physics description of a multiscale system | ‘hybrid’ model | 2
+‘hybrid’ model | multi-physics description of a multiscale system | 2
+molecular treatment | ‘micro’ model | 2
+‘micro’ model | molecular treatment | 2
+continuum-fluid one | macro’ model | 2
+macro’ model | continuum-fluid one | 2
+hybrid | molecular treatment | 1
+molecular treatment | hybrid | 0
+hybrid | continuum-fluid one | 1
+continuum-fluid one | hybrid | 0
+continuous asynchronous | CA | 2
+CA | continuous asynchronous | 2
+continuous asynchronous | micro and macro models | 1
+micro and macro models | continuous asynchronous | 0
+free energy functional | functional | 1
+functional | free energy functional | 0
+uniaxial polar agents | gel | 2
+gel | uniaxial polar agents | 2
+polar viscous gels | energy consuming, anisotropic, non-Newtonian fluid | 2
+energy consuming, anisotropic, non-Newtonian fluid | polar viscous gels | 2
+polarization field | equation of motion | 1
+equation of motion | polarization field | 0
+These equations, along with conservation of momentum | continuum hydrodynamic description | 2
+continuum hydrodynamic description | These equations, along with conservation of momentum | 2
+BEM | boundary element method | 2
+boundary element method | BEM | 2
+Darwish and Moukalled | implicit extrapolation | 2
+implicit extrapolation | Darwish and Moukalled | 2
+method introduced by Ubbink and Issa | explicit extrapolation | 1
+explicit extrapolation | method introduced by Ubbink and Issa | 0
+Darwish and Moukalled | virtual upwind node is incorporated in the gradient ratio rf | 1
+virtual upwind node is incorporated in the gradient ratio rf | Darwish and Moukalled | 0
+non-equidistant | non-rectilinear meshes | 2
+non-rectilinear meshes | non-equidistant | 2
+couple a set of quadrature points with an equal number of nodal Lagrange polynomials | collocation method | 1
+collocation method | couple a set of quadrature points with an equal number of nodal Lagrange polynomials | 0
+Galerkin | CG | 2
+CG | Galerkin | 2
+DG | discontinuous Galerkin | 2
+discontinuous Galerkin | DG | 2
+newer extensions | flux reconstruction | 1
+flux reconstruction | newer extensions | 0
+flux reconstruction | FR | 2
+FR | flux reconstruction | 2
+spatial discretisation | structured triangle mesh | 1
+structured triangle mesh | spatial discretisation | 0
+wave field | Gaussian distribution in space | 1
+Gaussian distribution in space | wave field | 0
+oil–water homogenisation | phases are mixed | 1
+phases are mixed | oil–water homogenisation | 0
+sediment transport | phases are mixed | 1
+phases are mixed | sediment transport | 0
+gas-assisted injection moulding | interface problems | 1
+interface problems | gas-assisted injection moulding | 0
+liquid jet breakup | interface problems | 1
+interface problems | liquid jet breakup | 0
+inviscid case | linear advection | 2
+linear advection | inviscid case | 2
+channelling events | energetic atoms travel deep into the lattice through channels of low atomic density | 2
+energetic atoms travel deep into the lattice through channels of low atomic density | channelling events | 2
+FWupstrem | estimated upstream W fluxes | 2
+estimated upstream W fluxes | FWupstrem | 2
+voids | defects | 1
+defects | voids | 0
+dislocation loops | defects | 1
+defects | dislocation loops | 0
+swelling | defects | 1
+defects | swelling | 0
+vapour phase | number of different gases | 1
+number of different gases | vapour phase | 0
+second stress state | tri-axial tensile stress | 1
+tri-axial tensile stress | second stress state | 0
+a single VO with three Oi | di-interstitial | 2
+di-interstitial | a single VO with three Oi | 2
+di-interstitial with the fourth Oi site occupied | tri-interstitials | 2
+tri-interstitials | di-interstitial with the fourth Oi site occupied | 2
+tri-interstitials | split interstitial clusters | 1
+split interstitial clusters | tri-interstitials | 0
+quad-interstitials | split interstitial clusters | 1
+split interstitial clusters | quad-interstitials | 0
+two di-interstitials on adjacent sites | quad-interstitials | 2
+quad-interstitials | two di-interstitials on adjacent sites | 2
+multiple split quad-interstitial clusters | model for U4O9 | 1
+model for U4O9 | multiple split quad-interstitial clusters | 0
+conjugate gradient algorithm | minimised | 1
+minimised | conjugate gradient algorithm | 0
+box | Fe lattice | 1
+Fe lattice | box | 0
+single vacancy formation energy | Evac | 2
+Evac | single vacancy formation energy | 2
+Monte Carlo algorithm | determine the lowest energy configuration | 1
+determine the lowest energy configuration | Monte Carlo algorithm | 0
+oxide dispersion strengthened | ODS | 2
+ODS | oxide dispersion strengthened | 2
+ferritic alloys | ferritic alloys | 2
+ferritic alloys | ferritic alloys | 2
+nanostructured | dispersion of ultra-fine oxide particles throughout the matrix | 1
+dispersion of ultra-fine oxide particles throughout the matrix | nanostructured | 0
+9 and 14at.% Cr | ODS steels | 1
+ODS steels | 9 and 14at.% Cr | 0
+W | ODS steels | 1
+ODS steels | W | 0
+Y2O3 | ODS steels | 1
+ODS steels | Y2O3 | 0
+Ti | ODS steels | 1
+ODS steels | Ti | 0
+balance | ODS steels | 1
+ODS steels | balance | 0
+Fe and impurities | balance | 2
+balance | Fe and impurities | 2
+oxide dispersion strengthened | class of steels | 1
+class of steels | oxide dispersion strengthened | 0
+steels | 14YWT | 1
+14YWT | steels | 0
+solid solution | ODS steels | 1
+ODS steels | solid solution | 0
+Zirconium alloys | cladding | 1
+cladding | Zirconium alloys | 0
+Synchrotron X-Ray Diffraction | S-XRD | 2
+S-XRD | Synchrotron X-Ray Diffraction | 2
+oxides | monoclinic and stabilised tetragonal phases | 1
+monoclinic and stabilised tetragonal phases | oxides | 0
+monoclinic and stabilised tetragonal phases | ∼7% reduction in the tetragonal phase | 1
+∼7% reduction in the tetragonal phase | monoclinic and stabilised tetragonal phases | 0
+Spark plasma sintering | SPS | 2
+SPS | Spark plasma sintering | 2
+Spark plasma sintering | sintering-based technique | 1
+sintering-based technique | Spark plasma sintering | 0
+mould | heating element | 1
+heating element | mould | 0
+hot pressing sintering | conventional methods | 1
+conventional methods | hot pressing sintering | 0
+HIP | conventional methods | 1
+conventional methods | HIP | 0
+graphite mould | mould | 1
+mould | graphite mould | 0
+Zirconium alloys | fuel cladding | 1
+fuel cladding | Zirconium alloys | 0
+accident tolerant fuels | ATF | 2
+ATF | accident tolerant fuels | 2
+transmission electron microscopy | TEM | 2
+TEM | transmission electron microscopy | 2
+diffusion of oxygen | structural and chemical changes | 1
+structural and chemical changes | diffusion of oxygen | 0
+oxidation of the metal | structural and chemical changes | 1
+structural and chemical changes | oxidation of the metal | 0
+the metal | oxygen | 2
+oxygen | the metal | 2
+Setaram Multi-detector High Temperature Calorimeter | MDHTC-96 | 1
+MDHTC-96 | Setaram Multi-detector High Temperature Calorimeter | 0
+platinum ingots | reference material | 1
+reference material | platinum ingots | 0
+Sn | high purity standard metals | 1
+high purity standard metals | Sn | 0
+Pb | high purity standard metals | 1
+high purity standard metals | Pb | 0
+Zn | high purity standard metals | 1
+high purity standard metals | Zn | 0
+Al | high purity standard metals | 1
+high purity standard metals | Al | 0
+Ag | high purity standard metals | 1
+high purity standard metals | Ag | 0
+Ni | high purity standard metals | 1
+high purity standard metals | Ni | 0
+Schottky trivacancy defects | point defects trap sites | 1
+point defects trap sites | Schottky trivacancy defects | 0
+empirical pair potentials | potential | 1
+potential | empirical pair potentials | 0
+He | transmutation-created inert gas | 1
+transmutation-created inert gas | He | 0
+body-centred-cubic | bcc | 2
+bcc | body-centred-cubic | 2
+pan-cake geometry of the active core region | modifications in the core geometry | 1
+modifications in the core geometry | pan-cake geometry of the active core region | 0
+enlarged sodium plenum | design solutions | 1
+design solutions | enlarged sodium plenum | 0
+absorber layer | design solutions | 1
+design solutions | absorber layer | 0
+reduce neutron backscattering | absorber layer | 2
+absorber layer | reduce neutron backscattering | 2
+secular variation | SV | 2
+SV | secular variation | 2
+magnetic field | MF | 2
+MF | magnetic field | 2
+secular acceleration | SA | 2
+SA | secular acceleration | 2
+transmission electron microscopes | TEMs | 2
+TEMs | transmission electron microscopes | 2
+atomic force microscopes | AFMs | 2
+AFMs | atomic force microscopes | 2
+scanning electron microscopes | SEMs | 2
+SEMs | scanning electron microscopes | 2
+poly(vinyl alcohol) | PVA | 2
+PVA | poly(vinyl alcohol) | 2
+water-in-oil | W/O | 2
+W/O | water-in-oil | 2
+critical micellar concentration | CMC | 2
+CMC | critical micellar concentration | 2
+water-soluble monomers | aqueous droplets | 1
+aqueous droplets | water-soluble monomers | 0
+ATRP | CRP techniques | 1
+CRP techniques | ATRP | 0
+RAFT | CRP techniques | 1
+CRP techniques | RAFT | 0
+this technique | MWNTs | 2
+MWNTs | this technique | 2
+does not use pre-formed catalyst particles | HiPco (high-pressure CO) process | 2
+HiPco (high-pressure CO) process | does not use pre-formed catalyst particles | 2
+chemical vapor deposition | CVD | 2
+CVD | chemical vapor deposition | 2
+carbon nanotubes | CNTs | 2
+CNTs | carbon nanotubes | 2
+HiPco (high-pressure CO) process | CVD techniques | 1
+CVD techniques | HiPco (high-pressure CO) process | 0
+micelles | polymer nanostructures | 1
+polymer nanostructures | micelles | 0
+elastin-mimetic di-block copolymer | hydrophilic and hydrophobic blocks | 1
+hydrophilic and hydrophobic blocks | elastin-mimetic di-block copolymer | 0
+DLS | dynamic light scattering | 2
+dynamic light scattering | DLS | 2
+tri-block copolymer | polymer | 2
+polymer | tri-block copolymer | 2
+ion exchange capacity | IEC | 2
+IEC | ion exchange capacity | 2
+step-growth polymerization | chemical reactions | 1
+chemical reactions | step-growth polymerization | 0
+free radical polymerization | chemical reactions | 1
+chemical reactions | free radical polymerization | 0
+miniemulsion polymerizations | Heterophase polymerizations | 1
+Heterophase polymerizations | miniemulsion polymerizations | 0
+dispersion | Heterophase polymerizations | 1
+Heterophase polymerizations | dispersion | 0
+emulsion | Heterophase polymerizations | 1
+Heterophase polymerizations | emulsion | 0
+ABCs | block copolymers | 2
+block copolymers | ABCs | 2
+living polymerization with quantitative initiation | living polymerization techniques | 1
+living polymerization techniques | living polymerization with quantitative initiation | 0
+PR3 | ligand | 1
+ligand | PR3 | 0
+halogen | anionic ligand | 1
+anionic ligand | halogen | 0
+PR3 | neutral donor ligands/substrates | 1
+neutral donor ligands/substrates | PR3 | 0
+deactivation | decomposition | 2
+decomposition | deactivation | 2
+ROM polymers | matrix materials | 1
+matrix materials | ROM polymers | 0
+phenantroimidazoles | ROMP-able optical sensor molecules | 1
+ROMP-able optical sensor molecules | phenantroimidazoles | 0
+europium complexes | ROMP-able optical sensor molecules | 1
+ROMP-able optical sensor molecules | europium complexes | 0
+xanthene dyes | ROMP-able optical sensor molecules | 1
+ROMP-able optical sensor molecules | xanthene dyes | 0
+Another choice | graft the fluorinated groups on the copolymers with functional groups | 1
+graft the fluorinated groups on the copolymers with functional groups | Another choice | 0
+2-hydroxyethyl methacrylate | HEMA | 2
+HEMA | 2-hydroxyethyl methacrylate | 2
+butyl methacrylate-co-hydroxyehtyl acrylate-co-ethyl acrylate | poly | 2
+poly | butyl methacrylate-co-hydroxyehtyl acrylate-co-ethyl acrylate | 2
+direct solar radiation intensity | simulated parameters | 1
+simulated parameters | direct solar radiation intensity | 0
+ambient temperature | simulated parameters | 1
+simulated parameters | ambient temperature | 0
+water inlet temperature | simulated parameters | 1
+simulated parameters | water inlet temperature | 0
+water flow rate | simulated parameters | 1
+simulated parameters | water flow rate | 0
+cells | module | 1
+module | cells | 0
+modules | installed array | 1
+installed array | modules | 0
+system shown in Fig. 1 | system | 2
+system | system shown in Fig. 1 | 2
+shading algorithms | shading analysis | 1
+shading analysis | shading algorithms | 0
+Progressive photon mapping | iterative extension of the standard static photon mapping | 1
+iterative extension of the standard static photon mapping | Progressive photon mapping | 0
+combining successive results and averaging | mitigates the noise | 1
+mitigates the noise | combining successive results and averaging | 0
+density estimate bandwidth1Bandwidth | support, or area of influence, of a filter | 1
+support, or area of influence, of a filter | density estimate bandwidth1Bandwidth | 0
+iterative extension of the standard static photon mapping | Radiance extension | 1
+Radiance extension | iterative extension of the standard static photon mapping | 0
+VDC | Voc of 873 | 2
+Voc of 873 | VDC | 2
+10 strings of 18 modules per string | system | 1
+system | 10 strings of 18 modules per string | 0
+Voc of 873 | system | 1
+system | Voc of 873 | 0
+system | high efficiency system | 2
+high efficiency system | system | 2
+Voc of 864 | VDC | 2
+VDC | Voc of 864 | 2
+10 strings of 24 modules per string | system | 1
+system | 10 strings of 24 modules per string | 0
+Voc of 864 | system | 1
+system | Voc of 864 | 0
+system | standard silicon system | 1
+standard silicon system | system | 0
+Poisson | simple model problems | 1
+simple model problems | Poisson | 0
+linearized elasticity | simple model problems | 1
+simple model problems | linearized elasticity | 0
+IETI | IsogEometric Tearing and Interconnecting | 2
+IsogEometric Tearing and Interconnecting | IETI | 2
+FETI | Finite Element Tearing and Interconnecting | 2
+Finite Element Tearing and Interconnecting | FETI | 2
+IGA | isogeometric analysis | 2
+isogeometric analysis | IGA | 2
+hanging nodes | interfaces with T-joints | 2
+interfaces with T-joints | hanging nodes | 2
+NURBS | Non-Uniform Rational B-spline | 2
+Non-Uniform Rational B-spline | NURBS | 2
+C3D_8N_27C | element types | 1
+element types | C3D_8N_27C | 0
+C3D_8N_8I | element types | 1
+element types | C3D_8N_8I | 0
+numerical methods | level set method | 1
+level set method | numerical methods | 0
+the time where the interface passes a certain grid point is influenced only by those neighboring grid points which are previously passed by the interface | propagation process | 1
+propagation process | the time where the interface passes a certain grid point is influenced only by those neighboring grid points which are previously passed by the interface | 0
+shape offsetting | areas | 1
+areas | shape offsetting | 0
+computing distances | areas | 1
+areas | computing distances | 0
+photolithography development | areas | 1
+areas | photolithography development | 0
+seismic travel times | areas | 1
+areas | seismic travel times | 0
+modelling the flow of a slightly compressible single phase fluid in a viscoelastic porous medium | extension to the equations of poroelasticity | 1
+extension to the equations of poroelasticity | modelling the flow of a slightly compressible single phase fluid in a viscoelastic porous medium | 0
+lagged and non-lagged backward Euler time stepping method | Fully discrete numerical schemes | 1
+Fully discrete numerical schemes | lagged and non-lagged backward Euler time stepping method | 0
+weakly compressible SPH formulation | WCSPH | 2
+WCSPH | weakly compressible SPH formulation | 2
+shear stress | constraining the velocity | 1
+constraining the velocity | shear stress | 0
+method of planes | calculate the stress tensor | 1
+calculate the stress tensor | method of planes | 0
+volume-average approach | calculate the stress tensor | 1
+calculate the stress tensor | volume-average approach | 0
+Schweitz virial relation | calculate the stress tensor | 1
+calculate the stress tensor | Schweitz virial relation | 0
+complicated computational cell | calculate the stress tensor | 1
+calculate the stress tensor | complicated computational cell | 0
+Lees–Edwards cell | complicated computational cell | 1
+complicated computational cell | Lees–Edwards cell | 0
+framed cell | simple cell | 1
+simple cell | framed cell | 0
+simple cell | calculate the stress tensor | 1
+calculate the stress tensor | simple cell | 0
+estimate the final resulting quality | porosity | 2
+porosity | estimate the final resulting quality | 2
+WC-Co | hardmetal | 1
+hardmetal | WC-Co | 0
+powder | hardmetal | 1
+hardmetal | powder | 0
+macroscopic shrinkage | gradual filling of the pore | 1
+gradual filling of the pore | macroscopic shrinkage | 0
+Powder metallurgy | technology for the manufacturing of components to (near) net-shape | 1
+technology for the manufacturing of components to (near) net-shape | Powder metallurgy | 0
+inf–sup stable schemes | PL | 1
+PL | inf–sup stable schemes | 0
+classic penalty/weakly penalized | penalized formulations | 2
+penalized formulations | classic penalty/weakly penalized | 2
+weakly penalized | generalized formulation | 1
+generalized formulation | weakly penalized | 0
+PL, penalty or statically condensed PL formulations | generalized formulation | 1
+generalized formulation | PL, penalty or statically condensed PL formulations | 0
+weakly penalized formulation | penalty method | 1
+penalty method | weakly penalized formulation | 0
+weakly penalized formulation | PL formulation | 1
+PL formulation | weakly penalized formulation | 0
+subdivided into either prisms or tetrahedra | isoparametric [17] or, in general, a transfinite interpolation | 2
+isoparametric [17] or, in general, a transfinite interpolation | subdivided into either prisms or tetrahedra | 2
+coarse high-order prisms | prisms | 1
+prisms | coarse high-order prisms | 0
+Sn=defΩ×In | space–time slabs | 2
+space–time slabs | Sn=defΩ×In | 2
+S=defΩ×I=S1∪S2⋯∪Sn | space–time domain | 2
+space–time domain | S=defΩ×I=S1∪S2⋯∪Sn | 2
+Hamiltonian description | problem of dynamics, rewritten in first-order form | 1
+problem of dynamics, rewritten in first-order form | Hamiltonian description | 0
+variational format in the space–time domain | S=defΩ×I | 2
+S=defΩ×I | variational format in the space–time domain | 2
+computer aided design | CAD | 2
+CAD | computer aided design | 2
+finite element methods | IGAFEM | 2
+IGAFEM | finite element methods | 2
+boundary element method | BEM | 2
+BEM | boundary element method | 2
+BEM | numerical scheme | 1
+numerical scheme | BEM | 0
+Isogeometric BEM | IGABEM | 2
+IGABEM | Isogeometric BEM | 2
+Discontinuous Galerkin | DG | 2
+DG | Discontinuous Galerkin | 2
+high-order | nodal | 2
+nodal | high-order | 2
+unstructured high-order method | FR schemes | 1
+FR schemes | unstructured high-order method | 0
+immersed boundary method | IBM | 2
+IBM | immersed boundary method | 2
+Newtonian fluid | surrounding fluid | 1
+surrounding fluid | Newtonian fluid | 0
+computer aided design | CAD | 2
+CAD | computer aided design | 2
+finite element analysis | FEA | 2
+FEA | finite element analysis | 2
+scanning electron microscopes | SEM | 2
+SEM | scanning electron microscopes | 2
+transmission electron microscopes | TEM | 2
+TEM | transmission electron microscopes | 2
+atomic force microscopes | AFM | 2
+AFM | atomic force microscopes | 2
+scanning electron microscopes | instruments | 1
+instruments | scanning electron microscopes | 0
+atomic force microscopes | instruments | 1
+instruments | atomic force microscopes | 0
+transmission electron microscopes | instruments | 1
+instruments | transmission electron microscopes | 0
+MINERAL (MINeral ERror AnaLysis) | a new MATLAB® based program | 1
+a new MATLAB® based program | MINERAL (MINeral ERror AnaLysis) | 0
+database | WASI | 1
+WASI | database | 0
+NASA bio-Optical Marine Algorithm Data set | NOMAD | 2
+NOMAD | NASA bio-Optical Marine Algorithm Data set | 2
+SeaWiFS Bio-Optical Archive and Storage System | SeaBASS | 2
+SeaBASS | SeaWiFS Bio-Optical Archive and Storage System | 2
+ai⁎(λ | water constituents | 1
+water constituents | ai⁎(λ | 0
+aY⁎(λ) | water constituents | 1
+water constituents | aY⁎(λ) | 0
+aD⁎(λ) | water constituents | 1
+water constituents | aD⁎(λ) | 0
+bX(λ) | water constituents | 1
+water constituents | bX(λ) | 0
+bb,X⁎ | water constituents | 1
+water constituents | bb,X⁎ | 0
+bb | water constituents | 1
+water constituents | bb | 0
+Mie⁎ | water constituents | 1
+water constituents | Mie⁎ | 0
+Multi-Layer Perceptron | feed-forward networks with a single hidden layer of nodes | 2
+feed-forward networks with a single hidden layer of nodes | Multi-Layer Perceptron | 2
+Artificial Neural Networks | ANN | 2
+ANN | Artificial Neural Networks | 2
+macro-CT | virtual methods | 1
+virtual methods | macro-CT | 0
+µ-CT | virtual methods | 1
+virtual methods | µ-CT | 0
+nano-CT | virtual methods | 1
+virtual methods | nano-CT | 0
+generalised cross correlation phase transform | GCC-PHAT | 2
+GCC-PHAT | generalised cross correlation phase transform | 2
+voice activity detector | VAD | 2
+VAD | voice activity detector | 2
+Kalman filter | EKF | 2
+EKF | Kalman filter | 2
+uniform mean flow | mean flow | 1
+mean flow | uniform mean flow | 0
+mean swirling flow | mean flow | 2
+mean flow | mean swirling flow | 2
+semi-infinite row | two scatterers | 1
+two scatterers | semi-infinite row | 0
+algorithms for finding integer solutions | adapt the existing methods for finding real solutions | 2
+adapt the existing methods for finding real solutions | algorithms for finding integer solutions | 2
+sequences of optimal walks of a growing length in weighted digraphs | sequences of entries of max-algebraic matrix powers with growing exponents | 2
+sequences of entries of max-algebraic matrix powers with growing exponents | sequences of optimal walks of a growing length in weighted digraphs | 2
+focused ion beam | FIB | 2
+FIB | focused ion beam | 2
+Non-destructive X-ray nano-computed tomography | CT | 2
+CT | Non-destructive X-ray nano-computed tomography | 2
+robotic automation | RAMSI | 2
+RAMSI | robotic automation | 2
+La0.6Sr0.4CoO3−δ | LSC | 2
+LSC | La0.6Sr0.4CoO3−δ | 2
+yttria stabilized zirconia | YSZ | 2
+YSZ | yttria stabilized zirconia | 2
+powder X-ray diffraction | XRD | 2
+XRD | powder X-ray diffraction | 2
+Thermogravimetric analysis | TGA | 2
+TGA | Thermogravimetric analysis | 2
+field emission 74 scanning electron microscope | FEG-SEM | 2
+FEG-SEM | field emission 74 scanning electron microscope | 2
+The ferromagnetic characteristics | coercivity, remanence and magnetic anisotropy of the nanocomposite | 2
+coercivity, remanence and magnetic anisotropy of the nanocomposite | The ferromagnetic characteristics | 2
+small Ni-particles (3–6nm) | these particles | 2
+these particles | small Ni-particles (3–6nm) | 2
+coupled plasma | ICP | 2
+ICP | coupled plasma | 2
+polyimide | intermediate layer material | 1
+intermediate layer material | polyimide | 0
+SETSPICE | well-tested single electron circuit simulator | 1
+well-tested single electron circuit simulator | SETSPICE | 0
+monochlorobenzene | MCB | 2
+MCB | monochlorobenzene | 2
+IM-HM11-01 and IM-HM11-02 | SoC ( | 1
+SoC ( | IM-HM11-01 and IM-HM11-02 | 0
+chloroform | solvent | 1
+solvent | chloroform | 0
+anisole | solvent | 1
+solvent | anisole | 0
+non-bridging oxygen centre | surfaces of a-SiO2 | 1
+surfaces of a-SiO2 | non-bridging oxygen centre | 0
+silicon dangling bond | surfaces of a-SiO2 | 1
+surfaces of a-SiO2 | silicon dangling bond | 0
+neutral oxygen vacancy | major hole trap | 1
+major hole trap | neutral oxygen vacancy | 0
+n- and p-type | Ge (100) wafers | 1
+Ge (100) wafers | n- and p-type | 0
+atomic layer deposition | ALD | 2
+ALD | atomic layer deposition | 2
+O2 plasma | oxidizing species | 1
+oxidizing species | O2 plasma | 0
+forming gas | FGA | 2
+FGA | forming gas | 2
+PAA inter-penetrating network | IPN | 2
+IPN | PAA inter-penetrating network | 2
+PEGDMA hydrogel | versatile platform for creating a variety of hydrogel scaffolds | 1
+versatile platform for creating a variety of hydrogel scaffolds | PEGDMA hydrogel | 0
+ultra-nanocrystalline diamond | UNCD | 2
+UNCD | ultra-nanocrystalline diamond | 2
+chemical vapour deposition | CVD | 2
+CVD | chemical vapour deposition | 2
+conventional electron beam lithography | EBL | 2
+EBL | conventional electron beam lithography | 2
+HSQ | hydrogen silsesquioxane | 2
+hydrogen silsesquioxane | HSQ | 2
+Copper electro-chemical deposition | ECD | 2
+ECD | Copper electro-chemical deposition | 2
+through silicon via | TSV | 2
+TSV | through silicon via | 2
+level set method | LSM | 2
+LSM | level set method | 2
+buckling | delaminate | 1
+delaminate | buckling | 0
+light microscopy | LM | 2
+LM | light microscopy | 2
+scanning electron microscopy | SEM | 2
+SEM | scanning electron microscopy | 2
+Polydimethylsiloxane | PDMS | 2
+PDMS | Polydimethylsiloxane | 2
+Replica molding | casting of prepolymer against a master and generating a replica of the master in PDMS | 2
+casting of prepolymer against a master and generating a replica of the master in PDMS | Replica molding | 2
+casting of prepolymer against a master and generating a replica of the master in PDMS | fabrication technique | 1
+fabrication technique | casting of prepolymer against a master and generating a replica of the master in PDMS | 0
+electrospinning | a manufacturing method | 1
+a manufacturing method | electrospinning | 0
+SL[DXR] | untargeted | 1
+untargeted | SL[DXR] | 0
+PRRs | pattern-recognition receptors | 2
+pattern-recognition receptors | PRRs | 2
+Toll-like receptors | TLRs | 2
+TLRs | Toll-like receptors | 2
+TLRs | PRRs | 1
+PRRs | TLRs | 0
+CpG | adjuvant | 1
+adjuvant | CpG | 0
+an anionic liposome | LA, LAP1 or LAP2 | 2
+LA, LAP1 or LAP2 | an anionic liposome | 2
+PDLAP2 | liposome LAP2 | 2
+liposome LAP2 | PDLAP2 | 2
+PDLA | liposome LA | 2
+liposome LA | PDLA | 2
+LPD | liposome DOTMA/DOPE | 2
+liposome DOTMA/DOPE | LPD | 2
+PDLAP1 | liposome LAP1 | 2
+liposome LAP1 | PDLAP1 | 2
+PDLAPRG | liposome LAPRG | 2
+liposome LAPRG | PDLAPRG | 2
+LCPRGPD | liposome LCPRG | 2
+liposome LCPRG | LCPRGPD | 2
+(13)σ=ftexp(−ϵinhwft)if(ϵin>0) | stress–inelastic displacement law | 1
+stress–inelastic displacement law | (13)σ=ftexp(−ϵinhwft)if(ϵin>0) | 0
+titanium aluminide alloy | titanium | 1
+titanium | titanium aluminide alloy | 0
+titanium aluminide alloy | the components | 1
+the components | titanium aluminide alloy | 0
+titanium | the components | 1
+the components | titanium | 0
+oxygen | elements | 1
+elements | oxygen | 0
+nitrogen | elements | 1
+elements | nitrogen | 0
+titanium | elements | 1
+elements | titanium | 0
+alloys | elements | 1
+elements | alloys | 0
+Nb-based intermetallics compounds | heterogeneous nucleation substrates | 1
+heterogeneous nucleation substrates | Nb-based intermetallics compounds | 0
+interaction factor approach | versatility of simplified (approximate) methods | 1
+versatility of simplified (approximate) methods | interaction factor approach | 0
+linear response | LR | 2
+LR | linear response | 2
+atomic natural orbital | ANO | 2
+ANO | atomic natural orbital | 2
+Abelian symmetry | D2 | 2
+D2 | Abelian symmetry | 2
+CCS | coupled cluster hierarchy | 1
+coupled cluster hierarchy | CCS | 0
+CC2 | coupled cluster hierarchy | 1
+coupled cluster hierarchy | CC2 | 0
+CCSD | coupled cluster hierarchy | 1
+coupled cluster hierarchy | CCSD | 0
+CC3 | coupled cluster hierarchy | 1
+coupled cluster hierarchy | CC3 | 0
+CIS(D) | perturbative corrected methods | 1
+perturbative corrected methods | CIS(D) | 0
+CCSDR(3) | perturbative corrected methods | 1
+perturbative corrected methods | CCSDR(3) | 0
+polyethylene naphthalate | PEN | 2
+PEN | polyethylene naphthalate | 2
+irreducible representation | IrRep | 2
+IrRep | irreducible representation | 2
+sample average approximation approach | SAA | 2
+SAA | sample average approximation approach | 2
+evolution of a network of collaborative documents along with a social network of collaborators | collaboration processes | 1
+collaboration processes | evolution of a network of collaborative documents along with a social network of collaborators | 0
+heart rate variability | HRV | 2
+HRV | heart rate variability | 2
+periods | frequencies | 1
+frequencies | periods | 0
+physiological components | subsystems | 2
+subsystems | physiological components | 2
+cardiovascular system | subsystems | 1
+subsystems | cardiovascular system | 0
+Parameterised Post-Newtonian | PPN | 2
+PPN | Parameterised Post-Newtonian | 2
+lunar laser ranging | cutting edge astrophysical observations | 1
+cutting edge astrophysical observations | lunar laser ranging | 0
+radio echo | cutting edge astrophysical observations | 1
+cutting edge astrophysical observations | radio echo | 0
+Hulse–Taylor binary pulsar | cutting edge astrophysical observations | 1
+cutting edge astrophysical observations | Hulse–Taylor binary pulsar | 0
+PPN formalism | benchmark for how theories of gravity should be evaluated | 1
+benchmark for how theories of gravity should be evaluated | PPN formalism | 0
+inverse | ‘top-down’ | 2
+‘top-down’ | inverse | 2
+time series analysis | inverse | 1
+inverse | time series analysis | 0
+time series analysis | ‘top-down’ | 1
+‘top-down’ | time series analysis | 0
+isobaric analogue state | IAS | 2
+IAS | isobaric analogue state | 2
+continuum random phase approximation | CRPA | 2
+CRPA | continuum random phase approximation | 2
+modified effective momentum approximation | MEMA | 2
+MEMA | modified effective momentum approximation | 2
+electron | positron | 2
+positron | electron | 2
+simple | corresponding Lie algebra has no non-trivial ideals | 1
+corresponding Lie algebra has no non-trivial ideals | simple | 0
+MR∼1010–1015 | rhd neutrino masses | 2
+rhd neutrino masses | MR∼1010–1015 | 2
+extended technicolor | ETC | 2
+ETC | extended technicolor | 2
+function of 4-index field strength | (2)w=εμναβ∂μAναβ | 1
+(2)w=εμναβ∂μAναβ | function of 4-index field strength | 0
+the effective Lagrangian | Leff=−14FμνaFaμν+M2−FμνaFaμν | 1
+Leff=−14FμνaFaμν+M2−FμνaFaμν | the effective Lagrangian | 0
+NEXUS 3.97 | Monte Carlo program | 1
+Monte Carlo program | NEXUS 3.97 | 0
+microscopic (predominantly soft) parton cascades | phenomenological soft pomeron exchanges | 1
+phenomenological soft pomeron exchanges | microscopic (predominantly soft) parton cascades | 0
+“semihard pomeron” | piece of the QCD parton ladder sandwiched between two soft pomerons which are connected to the projectile and to the target in the usual way | 1
+piece of the QCD parton ladder sandwiched between two soft pomerons which are connected to the projectile and to the target in the usual way | “semihard pomeron” | 0
+q–q̄ | color singlets | 1
+color singlets | q–q̄ | 0
+q–qq | color singlets | 1
+color singlets | q–qq | 0
+q̄–q̄q̄ | color singlets | 1
+color singlets | q̄–q̄q̄ | 0
+interaction of the leading prehadrons during the formation time | in-medium change of the fragmentation function | 2
+in-medium change of the fragmentation function | interaction of the leading prehadrons during the formation time | 2
+π± | particle species | 1
+particle species | π± | 0
+p | particle species | 1
+particle species | p | 0
+K± | particle species | 1
+particle species | K± | 0
+p̄ | particle species | 1
+particle species | p̄ | 0
+quantum chromodynamics | QCD | 2
+QCD | quantum chromodynamics | 2
+nonrelativistic quantum chromodynamics | NRQCD | 2
+NRQCD | nonrelativistic quantum chromodynamics | 2
+exclusive J/ψ and charmonium productions | four-charm–quark processes | 1
+four-charm–quark processes | exclusive J/ψ and charmonium productions | 0
+qq̄gn | hybrid mesons | 1
+hybrid mesons | qq̄gn | 0
+unintegrated gluon distributions | uGDF | 2
+uGDF | unintegrated gluon distributions | 2
+Ru(Zr)+Zr(Ru) | combined systems | 1
+combined systems | Ru(Zr)+Zr(Ru) | 0
+σnp | medium neutron–proton cross sections | 1
+medium neutron–proton cross sections | σnp | 0
+no correlations and therefore no redundancy are present | Poissonian sequence | 1
+Poissonian sequence | no correlations and therefore no redundancy are present | 0
+sequence of equally spaced levels | picket fence | 1
+picket fence | sequence of equally spaced levels | 0
+approximately locate | a single missed level | 1
+a single missed level | approximately locate | 0
+leading logarithmic approximation | LLA | 2
+LLA | leading logarithmic approximation | 2
+s̄gsσ·Gs | quark–gluon mixed condensate | 1
+quark–gluon mixed condensate | s̄gsσ·Gs | 0
+〈Vγ|Oi|B〉=FB→VTiI+∫dk+2π∫01duφB,+(k+)TiII(k+,u)φV⊥(u) | schematic form | 1
+schematic form | 〈Vγ|Oi|B〉=FB→VTiI+∫dk+2π∫01duφB,+(k+)TiII(k+,u)φV⊥(u) | 0
+leading-twist light-cone distribution amplitude | LCDA | 2
+LCDA | leading-twist light-cone distribution amplitude | 2
+next-to-next-to-leading orde | NNLO | 2
+NNLO | next-to-next-to-leading orde | 2
+FB→V | transition form factors defined through the matrix elements of the operator O7, φB | 1
+transition form factors defined through the matrix elements of the operator O7, φB | FB→V | 0
++(k+) | leading-twist B-meson wave-function with k+ being a light-cone component of the spectator quark momentum | 1
+leading-twist B-meson wave-function with k+ being a light-cone component of the spectator quark momentum | +(k+) | 0
+φ⊥V(u | leading-twist light-cone distribution amplitude | 1
+leading-twist light-cone distribution amplitude | φ⊥V(u | 0
+u | fractional momentum of the vector meson carried by one of the two partons | 1
+fractional momentum of the vector meson carried by one of the two partons | u | 0
+this reaction | binary reaction | 2
+binary reaction | this reaction | 2
+Quark–Meson Coupling | QMC | 2
+QMC | Quark–Meson Coupling | 2
+Dirac equation for the quark in infinite quark matter | (30)iγ·∂−m−Vqs−γ0VqvψQMq(x)=0 | 1
+(30)iγ·∂−m−Vqs−γ0VqvψQMq(x)=0 | Dirac equation for the quark in infinite quark matter | 0
+baryons | complimentary probe | 1
+complimentary probe | baryons | 0
+quantum chromodynamics | QCD | 2
+QCD | quantum chromodynamics | 2
+isotropic infrared and optical background | IRB | 2
+IRB | isotropic infrared and optical background | 2
+ART model | hadronic transport model | 1
+hadronic transport model | ART model | 0
+N, Δ(1232) | baryons | 1
+baryons | N, Δ(1232) | 0
+N∗(1440) | baryons | 1
+baryons | N∗(1440) | 0
+N∗(1535) | baryons | 1
+baryons | N∗(1535) | 0
+Λ | baryons | 1
+baryons | Λ | 0
+Σ | baryons | 1
+baryons | Σ | 0
+π | mesons | 1
+mesons | π | 0
+ρ | mesons | 1
+mesons | ρ | 0
+ω | mesons | 1
+mesons | ω | 0
+η | mesons | 1
+mesons | η | 0
+K | mesons | 1
+mesons | K | 0
+K∗ | mesons | 1
+mesons | K∗ | 0
+Ξ particle | rare particles | 1
+rare particles | Ξ particle | 0
+crosses the inner horizon of the bulk geometry | instability | 1
+instability | crosses the inner horizon of the bulk geometry | 0
+de Sitter or anti-de Sitter symmetry | non-singular solutions with a four-dimensional Poincaré | 1
+non-singular solutions with a four-dimensional Poincaré | de Sitter or anti-de Sitter symmetry | 0
+Collins function | T-odd fragmentation functions | 1
+T-odd fragmentation functions | Collins function | 0
+single-particle inclusive DIS | e+p→e′+h+X | 2
+e+p→e′+h+X | single-particle inclusive DIS | 2
+single-jet inclusive DIS | e+p→e′+jet+X | 2
+e+p→e′+jet+X | single-jet inclusive DIS | 2
+extra-component of the bulk-vector | A5 | 2
+A5 | extra-component of the bulk-vector | 2
+bulk-scalar | Φ | 2
+Φ | bulk-scalar | 2
+c1=−1, c2=−1 | solution | 1
+solution | c1=−1, c2=−1 | 0
+bulk Higgs model | non-singular solution | 1
+non-singular solution | bulk Higgs model | 0
+parity of the pentaquark | P=(−)ℓ+1 | 1
+P=(−)ℓ+1 | parity of the pentaquark | 0
+ℓ | angular momentum associated with the relative coordinates of the q4 subsystem | 1
+angular momentum associated with the relative coordinates of the q4 subsystem | ℓ | 0
+SU(2)R | R-symmetry group | 1
+R-symmetry group | SU(2)R | 0
+we found another example of it | example of such singularity | 1
+example of such singularity | we found another example of it | 0
+Large Hadron Collider | (LHC) | 2
+(LHC) | Large Hadron Collider | 2
+gluon fusion | put limits on the Higgs mass | 1
+put limits on the Higgs mass | gluon fusion | 0
+put a firm lower bound on the Higgs mass | mH>114 GeV | 2
+mH>114 GeV | put a firm lower bound on the Higgs mass | 2
+Standard Model | SM | 2
+SM | Standard Model | 2
+intermediate Higgs mass region | 114≲mH≲160 GeV | 2
+114≲mH≲160 GeV | intermediate Higgs mass region | 2
+gluon fusion | Higgs production mechanism | 1
+Higgs production mechanism | gluon fusion | 0
+rare decay | H→γγ | 2
+H→γγ | rare decay | 2
+rare decay | decay channels | 1
+decay channels | rare decay | 0
+d>4 | effective spacetime dimension | 1
+effective spacetime dimension | d>4 | 0
+δn | spectral fluctuations | 1
+spectral fluctuations | δn | 0
+discrete time series | spectral fluctuations | 1
+spectral fluctuations | discrete time series | 0
+η | mesons | 1
+mesons | η | 0
+η′ | mesons | 1
+mesons | η′ | 0
+ϕ | vector meson | 1
+vector meson | ϕ | 0
+final-state particle | excited neutral kaon | 1
+excited neutral kaon | final-state particle | 0
+measurement of sin2β | decay to ψKsπ0 | 1
+decay to ψKsπ0 | measurement of sin2β | 0
+supersymmetry | SUSY | 2
+SUSY | supersymmetry | 2
+super-partners | particles | 1
+particles | super-partners | 0
+Salpeter equation | relativistic equation | 1
+relativistic equation | Salpeter equation | 0
+Bethe–Salpeter equation | full Salpeter equation | 2
+full Salpeter equation | Bethe–Salpeter equation | 2
+h | vector-pseudoscalar coupling | 2
+vector-pseudoscalar coupling | h | 2
+ih4〈Vμ(P∂μP−∂μPP)〉 | vector-pseudo scalar interaction | 2
+vector-pseudo scalar interaction | ih4〈Vμ(P∂μP−∂μPP)〉 | 2
+K+(p1)K¯0(p2)ρ−:h2(p1−p2)μεμ | vertices of ρ's to pseudoscalar mesons | 1
+vertices of ρ's to pseudoscalar mesons | K+(p1)K¯0(p2)ρ−:h2(p1−p2)μεμ | 0
+π+(p1)π0(p2)ρ−:h(p1−p2)μεμ | vertices of ρ's to pseudoscalar mesons | 1
+vertices of ρ's to pseudoscalar mesons | π+(p1)π0(p2)ρ−:h(p1−p2)μεμ | 0
+(12)π+(p1)π−(p2)ρ0:h(p1−p2)μεμ | vertices of ρ's to pseudoscalar mesons | 1
+vertices of ρ's to pseudoscalar mesons | (12)π+(p1)π−(p2)ρ0:h(p1−p2)μεμ | 0
+ρ decay width | Γ(ρ)=h2(|pπ|)3/(6πmρ2) | 2
+Γ(ρ)=h2(|pπ|)3/(6πmρ2) | ρ decay width | 2
+pπ | momentum of final state pions in the ρ rest frame | 2
+momentum of final state pions in the ρ rest frame | pπ | 2
+0.593–1.118 eV | significant reaction barriers | 1
+significant reaction barriers | 0.593–1.118 eV | 0
+Topological insulators | TIs | 2
+TIs | Topological insulators | 2
+Bi2Te3 | binary chalcogenides | 1
+binary chalcogenides | Bi2Te3 | 0
+Sb2Te3 | binary chalcogenides | 1
+binary chalcogenides | Sb2Te3 | 0
+Bi2Se3 | binary chalcogenides | 1
+binary chalcogenides | Bi2Se3 | 0
+(BixSb1−x)2Te3 | ternary chalcogenide | 1
+ternary chalcogenide | (BixSb1−x)2Te3 | 0
+transition metal | TM | 2
+TM | transition metal | 2
+Hall effect | fundamental physical phenomena | 1
+fundamental physical phenomena | Hall effect | 0
+Majorana fermions | fundamental physical phenomena | 1
+fundamental physical phenomena | Majorana fermions | 0
+image magnetic monopole effect | fundamental physical phenomena | 1
+fundamental physical phenomena | image magnetic monopole effect | 0
+Faraday and Kerr magneto-optical effect | fundamental physical phenomena | 1
+fundamental physical phenomena | Faraday and Kerr magneto-optical effect | 0
+light lasers | optical lasers | 2
+optical lasers | light lasers | 2
+CH3OH | methanol masers | 2
+methanol masers | CH3OH | 2
+OH | masers hydroxyl molecules | 2
+masers hydroxyl molecules | OH | 2
+light lasers | emission mechanism | 1
+emission mechanism | light lasers | 0
+optical lasers | emission mechanism | 1
+emission mechanism | optical lasers | 0
+radio-masers | emission mechanism | 1
+emission mechanism | radio-masers | 0
+glued trees | GT | 2
+GT | glued trees | 2
+GT graphs | class of graphs | 1
+class of graphs | GT graphs | 0
+GT graph | graph | 1
+graph | GT graph | 0
+wave ‘breaks’ | electrons damp the wave | 2
+electrons damp the wave | wave ‘breaks’ | 2
+probe tack | tests | 1
+tests | probe tack | 0
+quick stick | tests | 1
+tests | quick stick | 0
+loop tack | tests | 1
+tests | loop tack | 0
+rolling ball | tests | 1
+tests | rolling ball | 0
+commercial silicone dielectric gel | SDG | 2
+SDG | commercial silicone dielectric gel | 2
+GP | ‘template’ for the ensuing development of microstructure and associated rheological properties | 1
+‘template’ for the ensuing development of microstructure and associated rheological properties | GP | 0
+Fourier Transform Mechanical Spectroscopy | FTMS | 2
+FTMS | Fourier Transform Mechanical Spectroscopy | 2
+fibrin gels | markedly strain sensitive materials | 1
+markedly strain sensitive materials | fibrin gels | 0
+PAV | piezo axial vibrator | 2
+piezo axial vibrator | PAV | 2
+two problem domains | Permutation Flow-shop Scheduling and Capacitated Vehicle Routing | 2
+Permutation Flow-shop Scheduling and Capacitated Vehicle Routing | two problem domains | 2
+variable cut-off grade | operational constraints | 1
+operational constraints | variable cut-off grade | 0
+grade blending | operational constraints | 1
+operational constraints | grade blending | 0
+stockpiling | operational constraints | 1
+operational constraints | stockpiling | 0
+lump sum | recover network cost | 1
+recover network cost | lump sum | 0
+generation capacity based | recover network cost | 1
+recover network cost | generation capacity based | 0
+energy based fees | recover network cost | 1
+recover network cost | energy based fees | 0
+CH3 and CH2 | alkyl groups | 1
+alkyl groups | CH3 and CH2 | 0
+ϵCH3,H2O, ϵCH2,H2O | interactions between H2O and the alkyl groups | 1
+interactions between H2O and the alkyl groups | ϵCH3,H2O, ϵCH2,H2O | 0
+λCH3,H2O, λCH2,H2O | interactions between H2O and the alkyl groups | 1
+interactions between H2O and the alkyl groups | λCH3,H2O, λCH2,H2O | 0
+semiclathrate hydrates | ionic clathrate hydrates | 2
+ionic clathrate hydrates | semiclathrate hydrates | 2
+FiRECAM | Models | 1
+Models | FiRECAM | 0
+FiERAsystem | Models | 1
+Models | FiERAsystem | 0
+multivariable curve fitting | pyrolysis behaviour | 1
+pyrolysis behaviour | multivariable curve fitting | 0
+kinetics parameters | parameters | 1
+parameters | kinetics parameters | 0
+Shuffled Complex Evolution | SCE | 2
+SCE | Shuffled Complex Evolution | 2
+Shuffled Complex Evolution | mathematical procedures | 1
+mathematical procedures | Shuffled Complex Evolution | 0
+Genetic Algorithm | GA | 2
+GA | Genetic Algorithm | 2
+Genetic Algorithm | mathematical procedures | 1
+mathematical procedures | Genetic Algorithm | 0
+SCE | algorithm | 1
+algorithm | SCE | 0
+social networking services | SNS | 2
+SNS | social networking services | 2
+mobile applications | apps | 2
+apps | mobile applications | 2
+Social network games | SNG | 2
+SNG | Social network games | 2
+i-vectors | other approaches | 1
+other approaches | i-vectors | 0
+multiplying the output probabilities pl obtained for all of its frames | accumulating the logs as:(6)sl=1N∑t=1Nlogp(Ll|xt​, θ) | 2
+accumulating the logs as:(6)sl=1N∑t=1Nlogp(Ll|xt​, θ) | multiplying the output probabilities pl obtained for all of its frames | 2
+multivariate EMD | signal decomposition algorithm | 1
+signal decomposition algorithm | multivariate EMD | 0
+nonparametric approach | frequency-domain Volterra system identification | 1
+frequency-domain Volterra system identification | nonparametric approach | 0
+sentential decision diagrams | decision diagrams | 1
+decision diagrams | sentential decision diagrams | 0
+SDD | sentential decision diagrams | 2
+sentential decision diagrams | SDD | 2
+d-DNNF | deterministic, decomposable negation normal form | 2
+deterministic, decomposable negation normal form | d-DNNF | 2
+scale-adaptive | PSR | 2
+PSR | scale-adaptive | 2
+curvature-dependent polygonization | increasing/decreasing the size of triangles according to the local curvature | 2
+increasing/decreasing the size of triangles according to the local curvature | curvature-dependent polygonization | 2
+P91 | the material | 2
+the material | P91 | 2
+ISAT | In Situ Adaptive Tabulation | 2
+In Situ Adaptive Tabulation | ISAT | 2
+ISAT | tabulation and interpolation program | 1
+tabulation and interpolation program | ISAT | 0
+current model | modification of the previous model using a linearized phase diagram | 1
+modification of the previous model using a linearized phase diagram | current model | 0
+modelling | providing some key insights for process design and operations | 1
+providing some key insights for process design and operations | modelling | 0
+aerospace | critical load bearing engineering structures | 1
+critical load bearing engineering structures | aerospace | 0
+automotives | critical load bearing engineering structures | 1
+critical load bearing engineering structures | automotives | 0
+silica | inorganic additives | 1
+inorganic additives | silica | 0
+glass | inorganic additives | 1
+inorganic additives | glass | 0
+alumina | inorganic additives | 1
+inorganic additives | alumina | 0
+nano-clays | inorganic additives | 1
+inorganic additives | nano-clays | 0
+carbon nanotubes | inorganic additives | 1
+inorganic additives | carbon nanotubes | 0
+rubber particles | organic | 1
+organic | rubber particles | 0
+core–shell rubber particles | Rubbery additives | 1
+Rubbery additives | core–shell rubber particles | 0
+plastic void growth | energy dissipation mechanisms | 1
+energy dissipation mechanisms | plastic void growth | 0
+shear band development | energy dissipation mechanisms | 1
+energy dissipation mechanisms | shear band development | 0
+carbon nanotubes and silica nanoparticles | hybrid material | 1
+hybrid material | carbon nanotubes and silica nanoparticles | 0
+rubber with silica nanoparticles | hybrid material | 1
+hybrid material | rubber with silica nanoparticles | 0
+muscles synergies extraction | advanced machine learning methods | 1
+advanced machine learning methods | muscles synergies extraction | 0
+deep neural networks | advanced machine learning methods | 1
+advanced machine learning methods | deep neural networks | 0
+TD-PSD | Features | 1
+Features | TD-PSD | 0
+DFT | Features | 1
+Features | DFT | 0
+COAPT complete control system | EMG pattern recognition systems | 1
+EMG pattern recognition systems | COAPT complete control system | 0
+Principal Component Analysis method | PCA | 2
+PCA | Principal Component Analysis method | 2
+linear PCA | the simplest version of PCA | 1
+the simplest version of PCA | linear PCA | 0
+relative permeability | difference in magnetic properties | 1
+difference in magnetic properties | relative permeability | 0
+ferrite | ferromagnetic | 1
+ferromagnetic | ferrite | 0
+austenite | paramagnetic | 1
+paramagnetic | austenite | 0
+decarburisation | variation in ferrite content with depth | 1
+variation in ferrite content with depth | decarburisation | 0
+finite element | FE | 2
+FE | finite element | 2
+genetic population | Evolutionary algorithms | 1
+Evolutionary algorithms | genetic population | 0
+description of the dataset | Supplementary material | 1
+Supplementary material | description of the dataset | 0
+complete survey instrument | Supplementary material | 1
+Supplementary material | complete survey instrument | 0
+associated codebook | Supplementary material | 1
+Supplementary material | associated codebook | 0
+IGA | Isogeometric analysis | 2
+Isogeometric analysis | IGA | 2
+Isogeometric analysis | numerical simulation method | 1
+numerical simulation method | Isogeometric analysis | 0
+numerical simulation method | NURBS-based representation of CAD models | 1
+NURBS-based representation of CAD models | numerical simulation method | 0
+distance between data values | a specific distance metric such as Euclidean distance | 1
+a specific distance metric such as Euclidean distance | distance between data values | 0
+mobile ad hoc network | MANET | 2
+MANET | mobile ad hoc network | 2
+EMDB | Emotional Movie Database | 2
+Emotional Movie Database | EMDB | 2
+Emotional Movie Database | database collections | 1
+database collections | Emotional Movie Database | 0
+Film Stim | database collections | 1
+database collections | Film Stim | 0
+AOP | Aspect-oriented Programming | 2
+Aspect-oriented Programming | AOP | 2
+PCA | principal component analysis | 2
+principal component analysis | PCA | 2
+implementation principle | factors on promoting the level of teaching and learning | 1
+factors on promoting the level of teaching and learning | implementation principle | 0
+curriculum design | factors on promoting the level of teaching and learning | 1
+factors on promoting the level of teaching and learning | curriculum design | 0
+education policy | factors on promoting the level of teaching and learning | 1
+factors on promoting the level of teaching and learning | education policy | 0
+WTO | Chinese vocabulary | 1
+Chinese vocabulary | WTO | 0
+Ka la OK | Chinese vocabulary | 1
+Chinese vocabulary | Ka la OK | 0
+MP3 | Chinese vocabulary | 1
+Chinese vocabulary | MP3 | 0
+Ecolinguistics | branch of linguistic | 1
+branch of linguistic | Ecolinguistics | 0
+Ecolinguistics | combine the linguistic with the ecology | 2
+combine the linguistic with the ecology | Ecolinguistics | 2
+semantic networks | AI techniques | 1
+AI techniques | semantic networks | 0
+LTL-FO | Linear Temporal First-Order Logic | 2
+Linear Temporal First-Order Logic | LTL-FO | 2
+Evolutionary Algorithms | stochastic optimization methods | 1
+stochastic optimization methods | Evolutionary Algorithms | 0
+Schlumberger Doll Research | SDR | 2
+SDR | Schlumberger Doll Research | 2
+CSM | classification scale method | 2
+classification scale method | CSM | 2
+Modified Census Transform | MCT | 2
+MCT | Modified Census Transform | 2
+vAcademia | educational platform | 1
+educational platform | vAcademia | 0
+clone PP-07 | Pseudo-nitzschia pungens | 1
+Pseudo-nitzschia pungens | clone PP-07 | 0
+clone TISO | golden alga Isochrysis galbana | 1
+golden alga Isochrysis galbana | clone TISO | 0
+WGSR | water-gas shift reaction | 2
+water-gas shift reaction | WGSR | 2
+calcite | natural catalysts | 1
+natural catalysts | calcite | 0
+coal char | natural catalysts | 1
+natural catalysts | coal char | 0
+coal char | unburned residues from coal | 2
+unburned residues from coal | coal char | 2
+modified olivine | natural catalysts | 1
+natural catalysts | modified olivine | 0
+FeSO4 | inorganic flocculating agents | 1
+inorganic flocculating agents | FeSO4 | 0
+Al2(SO4)3, | inorganic flocculating agents | 1
+inorganic flocculating agents | Al2(SO4)3, | 0
+FeCl3 | inorganic flocculating agents | 1
+inorganic flocculating agents | FeCl3 | 0
+PAM | organic coagulant aid | 1
+organic coagulant aid | PAM | 0
+Design semantics | annotation of form and the reflection of its symbolic meaning | 1
+annotation of form and the reflection of its symbolic meaning | Design semantics | 0
+Design semantics | explanation of the deposited human cultural spirit | 1
+explanation of the deposited human cultural spirit | Design semantics | 0
+Design semantics | integration of human mode of existence and view on culture and art | 1
+integration of human mode of existence and view on culture and art | Design semantics | 0
+Design semantics | unity of art and science | 1
+unity of art and science | Design semantics | 0
+High Performance Computing | HPC | 2
+HPC | High Performance Computing | 2
+algorithm | spreading activation scheme | 1
+spreading activation scheme | algorithm | 0
+Sentence reduction | text summarization | 1
+text summarization | Sentence reduction | 0
+Sentence reduction | natural language processing | 1
+natural language processing | Sentence reduction | 0
+Knowledge Management | KM | 2
+KM | Knowledge Management | 2
+Role-Based Access Contro | RBAC | 2
+RBAC | Role-Based Access Contro | 2
+Knowledge Management System | KMS | 2
+KMS | Knowledge Management System | 2
+Exponential Time Differencing | ETD | 2
+ETD | Exponential Time Differencing | 2
+objectives | (time | 1
+(time | objectives | 0
+objectives | cost | 1
+cost | objectives | 0
+objectives | quality | 1
+quality | objectives | 0
+contractor selection problem | optimization problem | 1
+optimization problem | contractor selection problem | 0
+new generation network technologies | network virtualization technology | 1
+network virtualization technology | new generation network technologies | 0
+confidentiality, integrity, reliability and consistency | CIRC | 2
+CIRC | confidentiality, integrity, reliability and consistency | 2
+virtual storage system | DepSky | 1
+DepSky | virtual storage system | 0
+Least Mean Squares | LMS | 2
+LMS | Least Mean Squares | 2
+Sample Matrix Inversion | SMI | 2
+SMI | Sample Matrix Inversion | 2
+Recursive Least Squares | RLS | 2
+RLS | Recursive Least Squares | 2
+Conjugate Gradient Method | CGM | 2
+CGM | Conjugate Gradient Method | 2
+eye movement measurement methods | Video-oculography | 1
+Video-oculography | eye movement measurement methods | 0
+set up the reasonable and practical financial systemic risk early-warning index system | establish the financial systemic risk best predict equation | 1
+establish the financial systemic risk best predict equation | set up the reasonable and practical financial systemic risk early-warning index system | 0
+weight percent | wt % | 2
+wt % | weight percent | 2
+horizontal cold chamber machine | CLH 400.1 | 2
+CLH 400.1 | horizontal cold chamber machine | 2
+spectrophotometer | SPECTROLAB JR.CCD 2000 | 2
+SPECTROLAB JR.CCD 2000 | spectrophotometer | 2
+production management system | PMS | 2
+PMS | production management system | 2
+line galloping | galloping | 2
+galloping | line galloping | 2
+continuous stirred-tank reactor | CSTR | 2
+CSTR | continuous stirred-tank reactor | 2
+model building | algorithm | 1
+algorithm | model building | 0
+tool path generation | algorithm | 1
+algorithm | tool path generation | 0
+HDMR | high dimensional model representation | 2
+high dimensional model representation | HDMR | 2
+support vector regression | SVR | 2
+SVR | support vector regression | 2
+new form of high dimensional model representation | adaptive SVR-HMDR | 2
+adaptive SVR-HMDR | new form of high dimensional model representation | 2
+Metal–intermetallic laminated | MIL | 2
+MIL | Metal–intermetallic laminated | 2
+Foreign Direct Investment | FDI | 2
+FDI | Foreign Direct Investment | 2
+image thresholding technique | Otsu scheme | 1
+Otsu scheme | image thresholding technique | 0
+objects detecting, tracking and recognizing | computer vision | 1
+computer vision | objects detecting, tracking and recognizing | 0
+objects detecting, tracking and recognizing | pattern recognition | 1
+pattern recognition | objects detecting, tracking and recognizing | 0
+median-based Otsu image thresholding algorithm | Otsu algorithm | 1
+Otsu algorithm | median-based Otsu image thresholding algorithm | 0
+prism | single optical system | 1
+single optical system | prism | 0
+image | object point | 1
+object point | image | 0
+system | Power Grid reasoning expert system | 1
+Power Grid reasoning expert system | system | 0
+Jena | semantic reasoning tools | 1
+semantic reasoning tools | Jena | 0
+light polyurethane foam | LPF | 2
+LPF | light polyurethane foam | 2
+poly-blocks | fire-resistant blocks | 1
+fire-resistant blocks | poly-blocks | 0
+flexi-wall | wall system | 1
+wall system | flexi-wall | 0
+Poly-blocks | interlocking light-weight blocks | 1
+interlocking light-weight blocks | Poly-blocks | 0
+Polyurea coating | abrasion-resistant finishing layer | 1
+abrasion-resistant finishing layer | Polyurea coating | 0
+LPF | expanding liquid mixture | 1
+expanding liquid mixture | LPF | 0
+Faults in the connections of stirrups | workmanship defects | 1
+workmanship defects | Faults in the connections of stirrups | 0
+unstaggered formation of stirrup | workmanship defects | 1
+workmanship defects | unstaggered formation of stirrup | 0
+perpendicular angles | workmanship defects | 1
+workmanship defects | perpendicular angles | 0
+inadequately anchorage lengths | workmanship defects | 1
+workmanship defects | inadequately anchorage lengths | 0
+use of cold joints | workmanship defects | 1
+workmanship defects | use of cold joints | 0
+Hot Isostatic Pressing | HIP | 2
+HIP | Hot Isostatic Pressing | 2
+non-ferromagnetic Nickel based alloys | paramagnetic | 1
+paramagnetic | non-ferromagnetic Nickel based alloys | 0
+W and Be with O2 | constituents that are not forming volatiles with the reactive gas | 1
+constituents that are not forming volatiles with the reactive gas | W and Be with O2 | 0
+PFCs | plasma facing components | 2
+plasma facing components | PFCs | 2
